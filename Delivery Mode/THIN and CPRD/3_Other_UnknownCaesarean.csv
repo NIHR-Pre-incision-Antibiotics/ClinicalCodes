@@ -1,0 +1,29 @@
+medcode,description
+14Y0.00,Born by caesarean section
+7F13.00,Other caesarean delivery
+7F13000,Upper uterine segment caesarean delivery NEC
+7F13100,Lower uterine segment caesarean delivery NEC
+7F13111,Lower uterine segment caesarean section (LSCS) NEC
+7F13200,Extraperitoneal caesarean section
+7F13y00,Other specified other caesarean delivery
+7F13z00,Other caesarean delivery NOS
+7F1A000,Caesarean hysterectomy
+L213200,"Multiple delivery, all by caesarean section"
+L398.00,Caesarean delivery
+L398000,Caesarean delivery unspecified
+L398100,Caesarean delivery - delivered
+L398200,Caesarean section - pregnancy at term
+L398500,Delivery by caesarean hysterectomy
+L398600,Caesarean delivery following previous Caesarean delivery
+L398z00,Caesarean delivery NOS
+L441.00,Caesarean wound disruption
+L441000,Caesarean wound disruption unspecified
+L441100,Caesarean wound disruption - delivered with p/n complication
+L441200,Caesarean wound disruption with postnatal complication
+L441z00,Caesarean wound disruption NOS
+Lyu5200,[X]Other single delivery by caesarean section
+Lyu6A00,[X]Infection of caesarean section wound following delivery
+Q021300,Fetus/neonate affected by placental damage-caesarean section
+Q034.00,Fetus or neonate affected by caesarean section
+Z254500,Delivered by caesarean section - pregnancy at term
+Z254600,Deliv caes following prev caes

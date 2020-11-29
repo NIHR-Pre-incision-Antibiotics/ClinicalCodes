@@ -1,0 +1,42 @@
+medcode ,description
+TJ00.00,Adverse reaction to penicillins                             
+TJ00000,Adverse reaction to natural penicillins                     
+TJ00100,Adverse reaction to cloxacillin                             
+TJ00200,Adverse reaction to flucloxacillin                          
+TJ00300,Adverse reaction to amoxycillin                             
+TJ00311,Adverse reaction to amoxicillin                             
+TJ00400,Adverse reaction to ampicillin                              
+TJ00500,Adverse reaction to bacampicillin                           
+TJ00600,Adverse reaction to ciclacillin                             
+TJ00700,Adverse reaction to mezlocillin                             
+TJ00800,Adverse reaction to pivampicillin                           
+TJ00900,Adverse reaction to talampicillin                           
+TJ00A00,Adverse reaction to azlocillin                              
+TJ00B00,Adverse reaction to carbenicillin                           
+TJ00C00,Adverse reaction to carfecillin sodium                      
+TJ00D00,Adverse reaction to piperacillin                            
+TJ00E00,Adverse reaction to ticarcillin                             
+TJ00F00,Adverse reaction to mecillinam                              
+TJ00G00,Adverse reaction to pivmecillinam                           
+TJ00z00,Adverse reaction to penicillin NOS                          
+U600000,[X]Penicillins causing adverse effects in therapeutic use   
+U600011,[X] Adverse reaction to penicillins                         
+U600012,[X] Adverse reaction to natural penicillins                 
+U600013,[X] Adverse reaction to cloxacillin                         
+U600014,[X] Adverse reaction to flucloxacillin                      
+U600015,[X] Adverse reaction to amoxicillin                         
+U600016,[X] Adverse reaction to ampicillin                          
+U600017,[X] Adverse reaction to bacampicillin                       
+U600018,[X] Adverse reaction to ciclacillin                         
+U600019,[X] Adverse reaction to mezlocillin                         
+U60001A,[X] Adverse reaction to pivampicillin                       
+U60001B,[X] Adverse reaction to talampicillin                       
+U60001C,[X] Adverse reaction to azlocillin                          
+U60001D,[X] Adverse reaction to carbenicillin                       
+U60001E,[X] Adverse reaction to carfecillin sodium                  
+U60001F,[X] Adverse reaction to piperacillin                        
+U60001G,[X] Adverse reaction to ticarcillin                         
+U60001H,[X] Adverse reaction to mecillinam                          
+U60001I,[X] Adverse reaction to pivmecillinam                       
+U60001J,[X] Adverse reaction to penicillin NOS                      
+14L1.00,H/O:penicillin allergy

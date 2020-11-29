@@ -1,0 +1,27 @@
+medcode,description
+F4C0600,Acute atopic conjunctivitis
+F4C0611,Acute allergic conjunctivitis
+F4C1411,Allergic conjunctivitis
+F4C1300,Vernal conjunctivitis
+F4A3100,Vernal conjunctivitis of limbus and corniea
+H17..00,Allergic rhinitis
+H17..11,Perennial rhinitis
+H170.00,Allergic rhinitis due to pollens
+H171.00,Allergic rhinitis due to other allergens
+H172.00,Allergic rhinitis due to unspecified allergen
+H17z.00,Allergic rhinitis NOS
+Hyu2000,[X]Other seasonal allergic rhinitis
+Hyu2100,[X]Other allergic rhinitis
+H170.11,Hay fever - pollens
+H170.12,Pollinosis
+H171.11,Cat allergy
+H171.12,Dander (animal) allergy
+H171.13,Feather allergy
+H171.14,Hay fever - other allergen
+H171.15,House dust allergy
+H171.16,House dust mite allergy
+H171000,Allergy to animal
+H171100,Dog allergy
+H172.11,Hay fever - unspecified allergen
+H330.13,Hay fever with asthma
+H330011,Hay fever with asthma

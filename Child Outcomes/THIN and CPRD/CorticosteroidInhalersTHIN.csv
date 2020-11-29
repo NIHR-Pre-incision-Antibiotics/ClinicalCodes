@@ -1,0 +1,406 @@
+drugcode,bnfcode1,bnfcode2,bnfcode3,genericname,formulation,strength,units,status,hospitalonly,nhsflag,atc
+87986997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,100,micrograms/actuation,L,1,0,R03B A01
+87986998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,50,micrograms/actuation,L,1,0,R03B A01
+87988997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,100,mcg,L,1,0,R03B A01
+87988998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,50,mcg,L,1,0,R03B A01
+88832998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose breath actuated inhaler,breath-actuated aerosol inhaler,250,mcg,D,1,0,R03B A01
+88833997,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose breath actuated inhaler,breath-actuated aerosol inhaler,100,micrograms/actuation,D,1,0,R03B A01
+88833998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 50micrograms/dose breath actuated inhaler,breath-actuated aerosol inhaler,50,micrograms/actuation,D,1,0,R03B A01
+89263979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,,,L,1,0,R03B A01
+89264979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,,,L,1,0,R03B A01
+89267979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,,,L,1,0,R03B A01
+89270979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,,,L,1,0,R03B A01
+89276979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,breath-actuated aerosol inhaler,,,L,1,0,R03B A01
+30042978,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+30043978,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+85979979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+85980979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+85981979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+85982979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+85984979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+88305997,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+88305998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K07
+90394997,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+90394998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K07
+91493998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+92411998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400+12,mcg+mcg/dose,L,1,0,R03A K07
+99945979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K07
+99946979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K07
+99949979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K07
+99950979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+99951979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+99953979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+99955979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K07
+61398979,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A07
+72960978,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A07
+86195998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg/dose,L,1,0,R03B A02
+86196998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg/dose,L,1,0,R03B A02
+86197998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg/dose,L,1,0,R03B A02
+86569998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg/dose,L,1,0,R03B A01
+87173998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg/dose,L,1,0,R03B A01
+87174998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,50,mcg/dose,L,1,0,R03B A01
+87439998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+88434996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 250mcg breath-actuated dry powder inhaler,breath-actuated dry powder inhaler,250,mcg,D,1,0,R03B A01
+88434997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 100mcg breath-actuated dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,D,1,0,R03B A01
+88434998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 50mcg breath-actuated dry powder inhaler,breath-actuated dry powder inhaler,50,mcg,D,1,0,R03B A01
+88727998,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A07
+89229998,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A07
+89262979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg/dose,L,1,0,R03B A01
+89265979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg/dose,L,1,0,R03B A01
+89268979,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg/dose,L,1,0,R03B A01
+90758998,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A07
+90968998,03.02.00.00,03.02.00.00,00.00.00.00,Mometasone 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A07
+91088996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 400mcg breath-actuated dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,D,1,0,R03B A01
+91088997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,D,1,0,R03B A01
+91088998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 100mcg breath-actuated dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,D,1,0,R03B A01
+91363996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A01
+92285996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,D,1,0,R03B A01
+92285997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A01
+92285998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 250micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,250,mcg,D,1,0,R03B A01
+93066997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A01
+93066998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 50micrograms/dose breath actuated inhaler,breath-actuated dry powder inhaler,50,mcg,L,1,0,R03B A01
+93302998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+93303996,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+93303997,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+93303998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+95938996,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+96626989,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A01
+97125979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97128979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97129979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97130979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97132979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97133979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+97134979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97136979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97138979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97139979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97140979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97141979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+97143979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+97146979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+97147979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+97149979,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+98887996,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 100micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,100,mcg,L,1,0,R03B A02
+98887997,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 400micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,400,mcg,L,1,0,R03B A02
+98887998,03.02.00.00,03.02.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhaler,breath-actuated dry powder inhaler,200,mcg,L,1,0,R03B A02
+48014978,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 200micrograms/dose inhaler CFC free,CFC-free inhaler,200,mcg/dose,L,1,0,R03B A01
+61397979,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 50micrograms/dose inhaler CFC free,CFC-free inhaler,50,mcg/dose,L,1,0,R03B A01
+85826998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 50micrograms/dose inhaler CFC free,CFC-free inhaler,50,mcg/dose,L,1,0,R03B A01
+85827998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 250micrograms/dose inhaler CFC free,CFC-free inhaler,250,mcg/dose,L,1,0,R03B A01
+85828998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 200micrograms/dose inhaler CFC free,CFC-free inhaler,200,mcg/dose,L,1,0,R03B A01
+61236979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler CFC free,CFC-free inhaler,250,mcg/dose,L,1,0,R03B A01
+61237979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 200micrograms/dose inhaler CFC free,CFC-free inhaler,200,mcg/dose,L,1,0,R03B A01
+61396979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,CFC-free inhaler,100,mcg/dose,L,1,0,R03B A01
+83268998,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200mcg/dose CFC-free inhaler,CFC-free inhaler,200,mcg/dose,D,1,0,R03B A02
+83269998,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 100mcg/dose CFC-free inhaler,CFC-free inhaler,100,mcg/dose,D,1,0,R03B A02
+83306998,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200micrograms/dose inhaler cfc free,CFC-free inhaler,200,mcg/dose,D,1,0,R03B A02
+83307998,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 100micrograms/dose inhaler cfc free,CFC-free inhaler,100,mcg/dose,D,1,0,R03B A02
+85823998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler CFC free,CFC-free inhaler,250,mcg/dose,L,1,0,R03B A01
+85824998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 200micrograms/dose inhaler CFC free,CFC-free inhaler,200,mcg/dose,L,1,0,R03B A01
+85825998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,CFC-free inhaler,100,mcg/dose,L,1,0,R03B A01
+84751998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500mcg disks plus disk inhaler,disks plus disk inhaler,500,mcg,L,1,0,R03B A05
+84753998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500microgram inhalation powder blisters with device,disks plus disk inhaler,500,mcg,L,1,0,R03B A05
+84755998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250mcg disks plus disk inhaler,disks plus disk inhaler,250,mcg,L,1,0,R03B A05
+84757998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250microgram inhalation powder blisters with device,disks plus disk inhaler,250,mcg,L,1,0,R03B A05
+84760998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100mcg disks plus disk inhaler,disks plus disk inhaler,100,mcg,L,1,0,R03B A05
+84763998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100microgram inhalation powder blisters with device,disks plus disk inhaler,100,mcg,L,1,0,R03B A05
+84768998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50mcg disks plus disk inhaler,disks plus disk inhaler,50,mcg,D,1,0,R03B A05
+84771998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50microgram inhalation powder blisters with device,disks plus disk inhaler,50,mcg,D,1,0,R03B A05
+84871998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg disks plus disk inhaler,disks plus disk inhaler,400,mcg,D,1,0,R03B A01
+84873998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400microgram inhalation powder blisters with device,disks plus disk inhaler,400,mcg,D,1,0,R03B A01
+84875998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks plus disk inhaler,disks plus disk inhaler,200,mcg,D,1,0,R03B A01
+84877998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200microgram inhalation powder blisters with device,disks plus disk inhaler,200,mcg,D,1,0,R03B A01
+84879998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 100mcg disks plus disk inhaler,disks plus disk inhaler,100,mcg,D,1,0,R03B A01
+84881998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100microgram inhalation powder blisters with device,disks plus disk inhaler,100,mcg,D,1,0,R03B A01
+94847996,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg disks plus disk inhaler,disks plus disk inhaler,400,mcg/blister,D,1,0,R03B A01
+94847997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks plus disk inhaler,disks plus disk inhaler,200,mcg/blister,D,1,0,R03B A01
+94847998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 100mcg disks plus disk inhaler,disks plus disk inhaler,100,mcg,D,1,0,R03B A01
+96041992,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50mcg disks plus disk inhaler,disks plus disk inhaler,50,mcg,D,1,0,R03B A05
+96884992,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250mcg disks plus disk inhaler,disks plus disk inhaler,250,mcg,L,1,0,R03B A05
+96885992,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100mcg disks plus disk inhaler,disks plus disk inhaler,100,mcg,L,1,0,R03B A05
+97172979,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks plus disk inhaler,disks plus disk inhaler,200,mcg,D,1,0,R03B A01
+97181979,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg disks plus disk inhaler,disks plus disk inhaler,400,mcg,D,1,0,R03B A01
+97517998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg disks plus disk inhaler,disks plus disk inhaler,400,mcg,D,1,0,R03B A01
+84750998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500mcg disks refill,disks refill,500,mcg,L,1,0,R03B A05
+84752998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500microgram inhalation powder blisters,disks refill,500,mcg,L,1,0,R03B A05
+84754998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250mcg disks refill,disks refill,250,mcg,L,1,0,R03B A05
+84756998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250microgram inhalation powder blisters,disks refill,250,mcg,L,1,0,R03B A05
+84759998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100mcg disks refill,disks refill,100,mcg,D,1,0,R03B A05
+84762998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100microgram inhalation powder blisters,disks refill,100,mcg,L,1,0,R03B A05
+84767998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50mcg disks refill,disks refill,50,mcg,D,1,0,R03B A05
+84770998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50microgram inhalation powder blisters,disks refill,50,mcg,D,1,0,R03B A05
+84869998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg disks refill,disks refill,400,mcg,D,1,0,R03B A01
+84872998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400microgram inhalation powder blisters,disks refill,400,mcg,L,1,0,R03B A01
+84874998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks refill,disks refill,200,mcg,D,1,0,R03B A01
+84876998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200microgram inhalation powder blisters,disks refill,200,mcg,L,1,0,R03B A01
+84878998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 100mcg disks refill,disks refill,100,mcg,D,1,0,R03B A01
+84880998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100microgram inhalation powder blisters,disks refill,100,mcg,D,1,0,R03B A01
+92843998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500mcg disks plus disk inhaler,disks refill,500,mcg,L,1,0,R03B A05
+92844998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 500microgram disc,disks refill,500,mcg,L,1,0,R03B A05
+93056996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250microgram disc,disks refill,250,mcg,L,1,0,R03B A05
+93056997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 100microgram disc,disks refill,100,mcg,L,1,0,R03B A05
+93056998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50microgram disc,disks refill,50,mcg,D,1,0,R03B A05
+93057996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250mcg disks refill,disks refill,250,mcg,L,1,0,R03B A05
+93057997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100mcg disks plus disk inhaler,disks refill,100,mcg,D,1,0,R03B A05
+93057998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50mcg disks plus disk inhaler,disks refill,50,mcg,D,1,0,R03B A05
+93620992,03.02.00.00,00.00.00.00,00.00.00.00,Beclomethasone diproprionate cart 200 mcg,disks refill,200,mcg,L,1,0,R03B A01
+93621992,03.02.00.00,00.00.00.00,00.00.00.00,Beclomethasone diproprionate cart 100 mcg,disks refill,100,mcg,D,1,0,R03B A01
+94456996,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400microgram disc,disks refill,400,mcg,L,1,0,R03B A01
+94456997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200micrograms disc,disks refill,200,mcg,L,1,0,R03B A01
+94456998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100micrograms disc,disks refill,100,mcg,D,1,0,R03B A01
+94557996,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400micrograms/actuation inhaler,disks refill,400,mcg,L,1,0,R03B A01
+97173979,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks refill,disks refill,200,mcg,D,1,0,R03B A01
+97174979,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg disks refill,disks refill,200,mcg,D,1,0,R03B A01
+88156998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200microgram inhalation powder capsules,inhalation capsules,200,mcg,D,1,0,R03B A02
+89121998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 400microgram inhalation powder capsules,inhalation capsules,400,mcg,D,1,0,R03B A02
+94558996,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400microgram inhalation powder capsules,inhalation capsules,400,mcg,L,1,0,R03B A01
+94558997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200microgram inhalation powder capsules,inhalation capsules,200,mcg,L,1,0,R03B A01
+94558998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100microgram inhalation powder capsules,inhalation capsules,100,mcg,L,1,0,R03B A01
+96027990,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg inhalation capsules,inhalation capsules,400,mcg,L,1,0,R03B A01
+96028990,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg inhalation capsules,inhalation capsules,200,mcg,L,1,0,R03B A01
+96029990,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 100mcg inhalation capsules,inhalation capsules,100,mcg,L,1,0,R03B A01
+98590996,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 400mcg inhalation capsules,inhalation capsules,400,mcg,D,1,0,R03B A01
+98590997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 200mcg inhalation capsules,inhalation capsules,200,mcg,D,1,0,R03B A01
+98590998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 100mcg inhalation capsules,inhalation capsules,100,mcg,D,1,0,R03B A01
+94941996,03.02.00.00,03.01.01.01,03.02.00.00,Salbutamol 200microgram / beclometasone 100microgram inhalation powder capsules,inhalation capsules,100+200,mcg+mcg,D,1,0,R03A L02
+95983996,03.02.00.00,03.01.01.01,03.02.00.00,Beclometasone 100micrograms with salbutamol 200micrograms inhalation capsules,inhalation capsules,100+200,mcg+mcg,D,1,0,R03A L02
+94849997,03.02.00.00,03.02.00.00,03.01.01.01,Beclometasone dipropionate & salbutamol 100mcg+200mcg inhalation capsules,inhalation capsules,,,D,1,0,R03A C02
+94849998,03.02.00.00,03.02.00.00,03.01.01.01,Beclometasone dipropionate & salbutamol 200mcg+400mcg inhalation capsules,inhalation capsules,,,D,1,0,R03B A01
+94941997,03.02.00.00,03.02.00.00,03.01.01.01,Salbutamol 400microgram / beclometasone 200microgram inhalation powder capsules,inhalation capsules,200+400,mcg+mcg,D,1,0,R03A L02
+95983997,03.02.00.00,03.02.00.00,03.01.01.01,Beclometasone 200micrograms with salbutamol 400micrograms inhalation capsules,inhalation capsules,200+400,mcg+mcg,D,1,0,R03A L02
+72766978,03.02.00.00,03.01.01.01,03.02.00.00,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,inhalation powder,160+4.5,mcg+mcg/dose,L,1,0,R03A K07
+72621978,03.02.00.00,03.02.00.00,03.01.01.01,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,inhalation powder,320+9,mcg+mcg/dose,L,1,0,R03A K07
+39103978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K08
+39104978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K08
+39105978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K08
+39106978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,inhaler,200+6,mcg+mcg/dose,L,1,0,R03A K08
+39329978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+500,mcg+mcg,L,1,0,R03A K06
+39330978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / salmeterol 25micrograms/dose inhaler cfc free,inhaler,25+50,mcg+mcg/dose,D,1,0,R03A K06
+39331978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+125,mcg+mcg/dose,L,1,0,R03A K06
+39742978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+500,mg+mcg/dose,L,1,0,R03A K06
+47490978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,inhaler,125+5,mcg+mcg/dose,L,1,0,R03A K11
+47795978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+250,mcg+mcg/dose,L,1,0,R03A K06
+47796978,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+125,mcg+mcg/dose,L,1,0,R03A K06
+55822979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,inhaler,50+5,mcg+mcg/dose,L,1,0,R03A K11
+55823979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,inhaler,50+5,mcg+mcg/dose,L,1,0,R03A K11
+55824979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,inhaler,250+10,mcg+mcg/dose,L,1,0,R03A K11
+55825979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,inhaler,250+10,mcg+mcg/dose,L,1,0,R03A K11
+55826979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,inhaler,125+5,mcg+mcg/dose,L,1,0,R03A K11
+55827979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,inhaler,125+5,mcg+mcg/dose,L,1,0,R03A K11
+61371979,03.02.00.00,00.00.00.00,00.00.00.00,Ciclesonide 80micrograms/dose inhaler CFC free,inhaler,80,mcg/dose,L,1,0,R03B A08
+70369978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K08
+70370978,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K08
+82254998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose dry powder inhaler,inhaler,500,mcg,L,1,0,R03B A05
+82255998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+82257998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+82258998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+84238998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K08
+84239998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,inhaler,100+6,mcg+mcg/dose,L,1,0,R03A K08
+87062998,03.02.00.00,00.00.00.00,00.00.00.00,Ciclesonide 160micrograms/dose inhaler CFC free,inhaler,160,mcg/dose,L,1,0,R03B A08
+87063998,03.02.00.00,00.00.00.00,00.00.00.00,Ciclesonide 80micrograms/dose inhaler CFC free,inhaler,80,mcg/dose,L,1,0,R03B A08
+87065998,03.02.00.00,00.00.00.00,00.00.00.00,Ciclesonide 160micrograms/dose inhaler CFC free,inhaler,160,mcg,L,1,0,R03B A08
+87069998,03.02.00.00,00.00.00.00,00.00.00.00,Ciclesonide 80micrograms/dose inhaler CFC free,inhaler,80,mcg/dose,L,1,0,R03B A08
+87979998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25 + 50,micrograms + micrograms/actuation,D,1,0,R03A K06
+87980996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+250,mcg+mcg/dose,L,1,0,R03A K06
+87980997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+125,mcg+mcg/dose,L,1,0,R03A K06
+87980998,03.02.00.00,00.00.00.00,00.00.00.00,Salmeterol 25micrograms with fluticasone 50micrograms cfc free inhaler,inhaler,25+50,mcg+mcg/dose,D,1,0,R03A K06
+88522998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+88524996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+500,mcg+mcg,L,1,0,R03A K06
+88524997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+250,mcg+mcg,L,1,0,R03A K06
+88524998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+100,mcg+mcg,L,1,0,R03A K06
+88525996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+500,mcg+mcg,L,1,0,R03A K06
+88525997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+250,mcg+mcg,L,1,0,R03A K06
+88525998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,50+100,mcg+mcg,L,1,0,R03A K06
+91322997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose dry powder inhaler,inhaler,500,mcg,L,1,0,R03B A05
+91322998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+91334997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose dry powder inhaler,inhaler,500,mcg,L,1,0,R03B A05
+91334998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+91348998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+91547998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25 + 125,micrograms + micrograms/actuation,L,1,0,R03A K06
+92199998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+92842996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+92842997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+92845996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+92845997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+93983996,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+250,mcg+mcg/dose,L,1,0,R03A K06
+93983997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25+125,mcg+mcg/dose,L,1,0,R03A K06
+93983998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50micrograms/dose / salmeterol 25micrograms/dose inhaler cfc free,inhaler,25+50,mcg+mcg/dose,D,1,0,R03A K06
+94625998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,25 + 250,micrograms + micrograms/actuation,L,1,0,R03A K06
+94941998,03.02.00.00,00.00.00.00,00.00.00.00,Salbutamol 100micrograms/dose / beclometasone 50micrograms/dose inhaler,inhaler,50+100,mcg+mcg,D,1,0,R03A L02
+95983998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate & salbutamol 50mcg+100mcg inhaler,inhaler,50 + 100,micrograms + micrograms/inhalation,D,1,0,V07A Y
+97085979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose dry powder inhaler,inhaler,500,mcg,L,1,0,R03B A05
+97087979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose dry powder inhaler,inhaler,500,mcg,L,1,0,R03B A05
+97088979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97089979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97090979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97092979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97093979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97095979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose dry powder inhaler,inhaler,250,mcg,L,1,0,R03B A05
+97096979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+97099979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+97101979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose dry powder inhaler,inhaler,100,mcg,L,1,0,R03B A05
+97102979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+97103979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+97104979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A05
+97233979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97235979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97236979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97239979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97242979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97243979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97244979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97245979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97246979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97250979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97254979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,inhaler,,,L,1,0,R03A K06
+97255979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97257979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97258979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97260979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97262979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97263979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97265979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97267979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97268979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97269979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03A K06
+97270979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,inhaler,,,D,1,0,R03A K06
+98580998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate & salbutamol 50mcg+100mcg inhaler,inhaler,,,D,1,0,V07A Y
+72959978,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler cfc free,inhaler,100,mcg,L,1,0,R03B A01
+83447998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,L,1,0,R03B A01
+85036998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 200micrograms/dose dry powder inhalation cartridge,inhaler,200,mcg/dose,L,1,0,R03B A02
+85037998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,inhaler,200,mcg/dose,L,1,0,R03B A02
+85045998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,inhaler,200,mcg/dose,L,1,0,R03B A02
+87438998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 200micrograms/dose dry powder inhalation cartridge,inhaler,200,mcg/dose,L,1,0,R03B A02
+87991997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/actuation extrafine particle cfc free inhaler,inhaler,100,mcg,L,1,0,R03B A01
+89862996,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A01
+89862997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,D,1,0,R03B A01
+90588998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 200mcg inhaler,inhaler,200,micrograms/actuation,D,1,0,R03B A01
+91363997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 50micrograms/dose dry powder inhaler,inhaler,50,mcg,L,1,0,R03B A01
+91403997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,micrograms/actuation,D,1,0,R03B A01
+91403998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,micrograms/actuation,D,1,0,R03B A01
+91619996,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 50micrograms/dose inhaler CFC free,inhaler,50,mcg/dose,L,1,0,R03B A05
+91619998,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125micrograms/dose inhaler CFC free,inhaler,125,mcg,L,1,0,R03B A05
+92473996,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 50micrograms/dose inhaler CFC free,inhaler,50,mcg,L,1,0,R03B A05
+92473998,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125micrograms/dose inhaler CFC free,inhaler,125,mcg,L,1,0,R03B A05
+92899996,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125microgram/actuation pressurised inhalation,inhaler,125,mcg,D,1,0,R03B A05
+92899997,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 50microgram/actuation pressurised inhalation,inhaler,50,mcg,D,1,0,R03B A05
+92899998,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 25micrograms/dose inhaler,inhaler,25,mcg,D,1,0,R03B A05
+92900996,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone propionate 125mcg inhaler,inhaler,125,mcg,D,1,0,R03B A05
+92900997,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone propionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A05
+92900998,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone propionate 25mcg inhaler,inhaler,25,mcg,D,1,0,R03B A05
+93066996,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 250micrograms/dose breath actuated inhaler,inhaler,250,mcg,L,1,0,R03B A01
+94557997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 200micrograms/dose inhaler,inhaler,200,mcg,D,1,0,R03B A01
+94559996,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+95111998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 200mcg inhaler,inhaler,200,mcg,D,1,0,R03B A01
+95163990,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+95526992,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A02
+95536990,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 200micrograms/dose inhaler,inhaler,200,mcg,D,1,0,R03B A01
+95938997,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 50micrograms/dose inhaler,inhaler,50,mcg,D,1,0,R03B A02
+95938998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 200micrograms/dose inhaler,inhaler,200,mcg,D,1,0,R03B A02
+96131990,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+96626988,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+96626990,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 50micrograms/dose inhaler,inhaler,50,mcg,L,1,0,R03B A01
+96935989,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+97006989,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+97048979,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 50micrograms/dose inhaler CFC free,inhaler,50,mcg/dose,L,1,0,R03B A05
+97050979,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 50micrograms/dose inhaler CFC free,inhaler,50,mcg/dose,L,1,0,R03B A05
+97065979,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125micrograms/dose inhaler CFC free,inhaler,125,mcg,L,1,0,R03B A05
+97069979,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125micrograms/dose inhaler CFC free,inhaler,125,mcg,L,1,0,R03B A05
+97070979,03.02.00.00,03.01.05.00,03.02.00.00,Fluticasone 125micrograms/dose inhaler CFC free,inhaler,125,mcg,L,1,0,R03B A05
+97255988,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone 100micrograms/dose inhaler,inhaler,100,mcg,L,1,0,R03B A01
+97872996,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A01
+97872997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,D,1,0,R03B A01
+98332996,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,L,1,0,R03B A01
+98332997,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,L,1,0,R03B A01
+98595998,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A02
+99965998,03.02.00.00,03.01.05.00,03.02.00.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,L,1,0,R03B A01
+78401978,03.02.00.00,03.02.00.00,03.01.01.01,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,inhaler,92+22,mcg+mcg/dose,L,1,0,R03A K10
+78402978,03.02.00.00,03.02.00.00,03.01.01.01,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,inhaler,92+22,mcg+mcg/dose,L,1,0,R03A K10
+78403978,03.02.00.00,03.02.00.00,03.01.01.01,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,inhaler,184+22,mcg+mcg/dose,L,1,0,R03A K10
+78404978,03.02.00.00,03.02.00.00,03.01.01.01,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,inhaler,184+22,mcg+mcg/dose,L,1,0,R03A K10
+85829998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,100,mcg,L,1,0,R03B A01
+85830998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 50micrograms/dose inhaler CFC free,inhaler,50,mcg,L,1,0,R03B A01
+87990997,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,100,micrograms/actuation,L,1,0,R03B A01
+87990998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 50micrograms/dose inhaler CFC free,inhaler,50,micrograms/actuation,L,1,0,R03B A01
+89271979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89272979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89273979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89274979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 100micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89278979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 50micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89279979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 50micrograms/dose inhaler CFC free,inhaler,,,L,1,0,R03B A01
+89862998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A01
+91403996,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,micrograms/actuation,D,1,0,R03B A01
+91619997,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+92473997,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+92842998,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone propionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A05
+92845998,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250microgram/actuation pressurised inhalation,inhaler,250,mcg,D,1,0,R03B A05
+94559998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+95162990,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+95528992,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200mcg inhaler,inhaler,200,mcg,D,1,0,R03B A02
+96130990,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+96935988,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+97006988,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+97055979,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+97056979,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+97058979,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+97061979,03.02.00.00,03.02.00.00,03.01.05.00,Fluticasone 250micrograms/dose inhaler CFC free,inhaler,250,mcg,L,1,0,R03B A05
+97123979,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200mcg inhaler,inhaler,200,mcg,D,1,0,R03B A02
+97154979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,D,1,0,R03B A01
+97160979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A01
+97161979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A01
+97168979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A01
+97169979,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A01
+97255990,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone 250micrograms/dose inhaler,inhaler,250,mcg,L,1,0,R03B A01
+97698998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,D,1,0,R03B A01
+97872998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A01
+98288998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,L,1,0,R03B A01
+98332998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,L,1,0,R03B A01
+98596998,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200mcg/dose inhaler,inhaler,200,mcg/dose,D,1,0,R03B A02
+99910998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 50mcg inhaler,inhaler,50,mcg,D,1,0,R03B A01
+99914998,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 250mcg inhaler,inhaler,250,mcg,D,1,0,R03B A01
+99965997,03.02.00.00,03.02.00.00,03.01.05.00,Beclometasone dipropionate 100mcg inhaler,inhaler,100,mcg,L,1,0,R03B A01
+99914997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 250micrograms/dose inhaler,inhaler plus spacer,250,mcg,D,1,0,R03B A01
+93302996,03.02.00.00,03.01.05.00,03.02.00.00,Budesonide 50micrograms/actuation refill canister,inhaler refill,50,mcg,D,0,1,R03B A02
+93302997,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200micrograms/actuation refill canister,inhaler refill,200,mcg,D,1,0,R03B A02
+95527992,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 50mcg inhaler refill,inhaler refill,50,mcg,D,1,0,R03B A02
+98595997,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 50mcg inhaler refill,inhaler refill,50,mcg,D,1,0,R03B A02
+86577979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 1mg/2ml nebuliser liquid unit dose vials,nebuliser solution,1,mg/2mL,L,1,0,R03B A02
+86578979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 1mg/2ml nebuliser liquid unit dose vials,nebuliser solution,1,mg/2mL,L,1,0,R03B A02
+86587979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+86592979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+86593979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+86599979,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+93546990,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,1,mg/2mL,L,1,0,R03B A02
+93547990,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+94557998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 50micrograms/ml nebuliser suspension,nebuliser solution,50,mcg/1mL,D,1,0,R03B A01
+95492997,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 1mg/2ml nebuliser liquid unit dose vials,nebuliser solution,1,mg/2mL,L,1,0,R03B A02
+95492998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,500,mcg/2mL,L,1,0,R03B A02
+95493997,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 1mg/2ml nebuliser liquid unit dose vials,nebuliser solution,,mg/2mL,L,1,0,R03B A02
+95493998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,1,mg/2mL,L,1,0,R03B A02
+97075979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,nebuliser solution,2,mg/2mL,L,1,0,R03B A05
+97080979,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,0.5,mg/2mL,L,1,0,R03B A05
+97672997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,0.5,mg/2mL,L,1,0,R03B A05
+97672998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,nebuliser solution,2,mg/2mL,L,1,0,R03B A05
+97680997,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,nebuliser solution,0.5,mg/2mL,L,1,0,R03B A05
+97680998,03.02.00.00,00.00.00.00,00.00.00.00,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,nebuliser solution,2,mg/2mL,L,1,0,R03B A05
+98588998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 50mcg/1ml nebuliser solution,nebuliser solution,50,mcg/1mL,D,1,0,R03B A01
+85041998,03.02.00.00,00.00.00.00,00.00.00.00,Budesonide 200micrograms/dose dry powder inhalation cartridge,refill,200,mcg/dose,L,1,0,R03B A02
+91363998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 250micrograms/actuation inhaler and compact spacer,refill,250,mcg,D,1,0,R03B A01
+91387998,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone dipropionate 250mcg refill,refill,250,mcg,D,1,0,R03B A01
+97517997,03.02.00.00,00.00.00.00,00.00.00.00,Beclometasone 400microgram inhalation powder blisters,refill,400,mcg,D,1,0,R03B A01
+94324992,03.02.00.00,03.02.00.00,03.01.05.00,Pulmicort refil 200 mcg inh,refill,200,mcg,D,1,0,R03B A02
+98596997,03.02.00.00,03.02.00.00,03.01.05.00,Budesonide 200micrograms/actuation refill canister,refill,200,mcg,D,1,0,R03B A02
+88469996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 250mcg vortex metered dose inhaler,vortex metered dose inhaler,250,mcg,D,1,0,R03B A01
+88469997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 100mcg vortex metered dose inhaler,vortex metered dose inhaler,100,mcg,D,1,0,R03B A01
+88469998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 50mcg vortex metered dose inhaler,vortex metered dose inhaler,50,mcg,D,1,0,R03B A01
+89276996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 250mcg vortex metered dose inhaler,vortex metered dose inhaler,250,mcg,D,1,0,R03B A01
+89276997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 100mcg vortex metered dose inhaler,vortex metered dose inhaler,100,mcg,D,1,0,R03B A01
+89276998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 50mcg vortex metered dose inhaler,vortex metered dose inhaler,50,mcg,D,1,0,R03B A01
+90416996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 250mcg vortex metered dose inhaler,vortex metered dose inhaler,250,mcg,D,1,0,R03B A01
+90416997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 100mcg vortex metered dose inhaler,vortex metered dose inhaler,100,mcg,D,1,0,R03B A01
+90416998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone dipropionate 50mcg vortex metered dose inhaler,vortex metered dose inhaler,50,mcg,D,1,0,R03B A01
+90417996,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 250micrograms/actuation vortex inhaler,vortex metered dose inhaler,250,mcg,D,1,0,R03B A01
+90417997,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasone 100 micrograms/actuation vortex inhaler,vortex metered dose inhaler,100,mcg,D,1,0,R03B A01
+90417998,03.02.00.00,03.02.00.00,00.00.00.00,Beclometasons 50 micrograms/actuation vortex inhaler,vortex metered dose inhaler,50,mcg,D,1,0,R03B A01
+93326992,03.02.00.00,00.00.00.00,00.00.00.00,Salbutamol 400mcg/beclometh.100mcg r/cap inh,,,,L,1,0,

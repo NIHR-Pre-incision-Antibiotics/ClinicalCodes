@@ -1,0 +1,144 @@
+Code,Description
+173A.00,Exercise induced asthma
+178..00,Asthma trigger
+1780,Aspirin induced asthma
+1781,Asthma trigger - pollen
+1782,Asthma trigger - tobacco smoke
+1783,Asthma trigger - warm air
+1784,Asthma trigger - emotion
+1785,Asthma trigger - damp
+1786,Asthma trigger - animals
+1787,Asthma trigger - seasonal
+1788,Asthma trigger - cold air
+1789,Asthma trigger - respiratory infection
+178A.00,Asthma trigger - airborne dust
+178B.00,Asthma trigger - exercise
+1O2..00,Asthma confirmed
+388t.00,Royal College of Physicians asthma assessment
+388t000,Royal College Physician asthma assessment 3 question score
+38DL.00,Asthma control test
+38DT.00,Asthma control questionnaire
+38DV.00,Mini asthma quality of life questionnaire
+661M100,Asthma self-management plan agreed
+661N100,Asthma self-management plan review
+663..11,Asthma monitoring
+663N.00,Asthma disturbing sleep
+663N000,Asthma causing night waking
+663N100,Asthma disturbs sleep weekly
+663N200,Asthma disturbs sleep frequently
+663O.00,Asthma not disturbing sleep
+663O000,Asthma never disturbs sleep
+663P.00,Asthma limiting activities
+663P000,Asthma limits activities 1 to 2 times per month
+663P100,Asthma limits activities 1 to 2 times per week
+663P200,Asthma limits activities most days
+663Q.00,Asthma not limiting activities
+663U.00,Asthma management plan given
+663V.00,Asthma severity
+663V000,Occasional asthma
+663V100,Mild asthma
+663V200,Moderate asthma
+663V300,Severe asthma
+663W.00,Asthma prophylactic medication used
+663d.00,Emergency asthma admission since last appointment
+663e.00,Asthma restricts exercise
+6.63E+02,Asthma sometimes restricts exercise
+6.63E+102,Asthma severely restricts exercise
+663f.00,Asthma never restricts exercise
+663j.00,Asthma - currently active
+663m.00,Asthma accident and emergency attendance since last visit
+663n.00,Asthma treatment compliance satisfactory
+663p.00,Asthma treatment compliance unsatisfactory
+663q.00,Asthma daytime symptoms
+663r.00,Asthma causes night symptoms 1 to 2 times per month
+663s.00,Asthma never causes daytime symptoms
+663t.00,Asthma causes daytime symptoms 1 to 2 times per month
+663u.00,Asthma causes daytime symptoms 1 to 2 times per week
+663v.00,Asthma causes daytime symptoms most days
+663w.00,Asthma limits walking up hills or stairs
+663x.00,Asthma limits walking on the flat
+663y.00,Number of asthma exacerbations in past year
+66Y5.00,Change in asthma management plan
+66Y9.00,Step up change in asthma management plan
+66YA.00,Step down change in asthma management plan
+66YC.00,Absent from work or school due to asthma
+66YE.00,Asthma monitoring due
+66YJ.00,Asthma annual review
+66YK.00,Asthma follow-up
+66YP.00,Asthma night-time symptoms
+66YQ.00,Asthma monitoring by nurse
+66YR.00,Asthma monitoring by doctor
+66Yp.00,Asthma review using Roy Colleg of Physicians three questions
+66Yq.00,Asthma causes night time symptoms 1 to 2 times per week
+66Yr.00,Asthma causes symptoms most nights
+66Ys.00,Asthma never causes night symptoms
+66Yu.00,Number days absent from school due to asthma in past 6 month
+679J.00,Health education - asthma
+679J000,Health education - asthma self management
+679J100,Health education - structured asthma discussion
+679J200,Health education - structured patient focused asthma discuss
+8791,Further asthma - drug prevent.
+8794,Asthma control step 1
+8795,Asthma control step 2
+8796,Asthma control step 3
+8797,Asthma control step 4
+8798,Asthma control step 5
+8B3j.00,Asthma medication review
+8CMA000,Patient has a written asthma personal action plan
+8CR0.00,Asthma clinical management plan
+8H2P.00,"Emergency admission, asthma"
+9NNX.00,Under care of asthma specialist nurse
+9OJ..00,Asthma monitoring admin.
+9OJ..11,Asthma clinic administration
+9OJ1.00,Attends asthma monitoring
+9OJ2.00,Refuses asthma monitoring
+9OJ3.00,Asthma monitor offer default
+9OJ4.00,Asthma monitor 1st letter
+9OJ5.00,Asthma monitor 2nd letter
+9OJ6.00,Asthma monitor 3rd letter
+9OJ7.00,Asthma monitor verbal invite
+9OJ8.00,Asthma monitor phone invite
+9OJA.00,Asthma monitoring check done
+9OJA.11,Asthma monitored
+9OJZ.00,Asthma monitoring admin.NOS
+H312000,Chronic asthmatic bronchitis
+H35y700,Wood asthma
+H47y000,Detergent asthma
+H33..00,Asthma
+H33..11,Bronchial asthma
+H330.00,Extrinsic (atopic) asthma
+H330.11,Allergic asthma
+H330.12,Childhood asthma
+H330.13,Hay fever with asthma
+H330.14,Pollen asthma
+H330000,Extrinsic asthma without status asthmaticus
+H330011,Hay fever with asthma
+H330100,Extrinsic asthma with status asthmaticus
+H330111,Extrinsic asthma with asthma attack
+H330z00,Extrinsic asthma NOS
+H331.00,Intrinsic asthma
+H331.11,Late onset asthma
+H331000,Intrinsic asthma without status asthmaticus
+H331100,Intrinsic asthma with status asthmaticus
+H331111,Intrinsic asthma with asthma attack
+H331z00,Intrinsic asthma NOS
+H332.00,Mixed asthma
+H333.00,Acute exacerbation of asthma
+H334.00,Brittle asthma
+H335.00,Chronic asthma with fixed airflow obstruction
+H33z.00,Asthma unspecified
+H33z000,Status asthmaticus NOS
+H33z011,Severe asthma attack
+H33z100,Asthma attack
+H33z111,Asthma attack NOS
+H33z200,Late-onset asthma
+H33zz00,Asthma NOS
+H33zz11,Exercise induced asthma
+H33zz12,Allergic asthma NEC
+H312000,Chronic asthmatic bronchitis
+H33z.11,Hyperreactive airways disease
+H33zz13,Allergic bronchitis NEC
+9OJB.00,Asthma monitorng invit SMS (short message servce) txt messge
+38QM.00,Childhood Asthma Control Test
+66YZ.00,Does not have asthma management plan
+66Yz000,Asthma management plan declined

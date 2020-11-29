@@ -1,0 +1,144 @@
+code,frequency
+A020.00,Salmonella gastroenteritis
+A020.11,Salmonellosis
+A0...13,Vomiting - infective
+A00..00,Cholera
+A00..11,Vibrio cholerae
+A000.00,Cholera - Vibrio cholerae
+A001.00,Cholera - Vibrio cholerae El Tor
+A00z.00,Cholera NOS
+A0...11,Bacterial food poisoning
+A0...12,Food poisoning
+A01..00,Typhoid and paratyphoid fevers
+A010.00,Typhoid fever
+A010.11,Enteric fever
+A011.00,Paratyphoid fever A
+A012.00,Paratyphoid fever B
+A013.00,Paratyphoid fever C
+A01z.00,Paratyphoid fever NOS
+A02..00,Other salmonella infections
+A020.12,Salmonella food poisoning
+A021.00,Salmonella septicaemia
+A022.00,Localised salmonella infection
+A022000,Local salmonella infection unspecified
+A02y.00,Other specified salmonella infection
+A02z.00,Salmonella infection NOS
+A03..00,Shigellosis
+A030.00,Shigella dysenteriae (group A)
+A030.11,Bacillary dysentery
+A031.00,Shigella flexneri (group B)
+A032.00,Shigella boydii (group C)
+A033.00,Shigella sonnei (group D)
+A033.11,Bacillary dysentery Shigella sonnei
+A03y.00,Other specified shigella infection
+A03z.00,Shigellosis NOS
+A04..00,Other bacterial food poisoning
+A040.00,Staphylococcal food poisoning
+A042.00,Clostridium perfringens food poisoning
+A043.00,Other clostridia causing food poisoning
+A044.00,Vibrio parahaemolyticus food poisoning
+A04y.00,Other specified bacterial food poisoning
+A04y000,Foodborne Bacillus cereus intoxication
+A04z.00,Food poisoning NOS
+A05..00,Amoebiasis
+A050.00,Acute amoebic dysentery
+A051.00,Chronic intestinal amoebiasis
+A05y200,Amoeboma
+A05yz00,Amoebic infection of other sites NOS
+A05z.00,Amoebiasis NOS
+A06..00,Other protozoal intestinal diseases
+A060.00,Balantidiasis
+A061.00,Giardiasis - Lambliasis
+A061.11,Colitis - giardial
+A062.00,Coccidiosis
+A063.00,Intestinal trichomoniasis
+A064.00,Cryptosporidiosis
+A06y.00,Other specified protozoal intestinal diseases
+A06z.00,Protozoal intestinal diseases NOS
+A07..00,Intestinal infection due to other organisms
+A070.00,Escherichia coli gastrointestinal tract infection
+A070000,Enteropathogenic Escherichia coli infection
+A070100,Enterotoxigenic Escherichia coli infection
+A070200,Enteroinvasive Escherichia coli infection
+A070300,Enterohaemorrhagic Escherichia coli infection
+A071.00,Arizona paracolon gastrointestinal tract infection
+A072.00,Aerobacter aerogenes gastrointestinal tract infection
+A073.00,Proteus gastrointestinal tract infection
+A073000,Proteus mirabilis gastrointestinal tract infection
+A073100,Proteus morganii gastrointestinal tract infection
+A073z00,Proteus gastrointestinal tract infection NOS
+A074.00,Other specified gastrointestinal tract bacterial infection
+A074000,Staphylococcal gastrointestinal tract infection
+A074011,Diarrhoea due to staphylococcus
+A074012,Diarrhoea due to staphylococcal toxin
+A074100,Pseudomonas gastrointestinal tract infection
+A074111,Diarrhoea due to Pseudomonas pyocyanea
+A074300,Campylobacter gastrointestinal tract infection
+A074311,Diarrhoea due to Campylobacter jejuni
+A074312,Campylobacter enteritis
+A074313,Helicobacter gastritis
+A074400,Enteritis due to Yersinia enterocolitica
+A074500,Helicobacter pylori gastrointestinal tract infection
+A074y00,Other specified other gastrointestinal infection
+A074z00,Other specified gastrointestinal tract infections NOS
+A075.00,Unspecified bacterial enteritis
+A076.00,Enteritis due to specified virus
+A076.11,Viral diarrhoea
+A076.12,Viral vomiting
+A076000,Enteritis due to adenovirus
+A076100,Enteritis due to enterovirus
+A076200,Enteritis due to rotavirus
+A076300,Enteritis due to norovirus
+A076z00,Enteritis due to specified virus NOS
+A07y.00,Gastrointestinal tract infection specified organism NEC
+A07y000,Viral gastroenteritis
+A07y100,Infantile viral gastroenteritis
+A07z.00,Gastrointestinal tract infection specified organism NOS
+A08..00,Ill-defined intestinal tract infections
+A08..11,Gastric flu
+A080.00,"Infectious colitis, enteritis and gastroenteritis"
+A080200,Infectious enteritis
+A080300,Infectious gastroenteritis
+A080z00,"Infectious colitis, enteritis and gastroenteritis NOS"
+A081.00,"Colitis, enteritis and gastroenteritis presumed infectious"
+A081.11,"Colitis,enteritis ? infectious"
+A081000,Colitis - presumed infectious origin
+A081100,Enteritis - presumed infectious origin
+A081200,Gastroenteritis - presumed infectious origin
+A081z00,"Colitis, enteritis and gastroenteritis presumed infect NOS"
+A082.00,Infectious diarrhoea
+A082.11,Travellers' diarrhoea
+A082000,Dysenteric diarrhoea
+A082100,Epidemic diarrhoea
+A082111,Viral gastroenteritis
+A082z00,Infectious diarrhoea NOS
+A083.00,Diarrhoea of presumed infectious origin
+A083.11,Diarrhoea & vomiting -? infect
+A08z.00,Ill defined gastrointestinal tract infections NOS
+A0y..00,Other specified infectious diseases of intestinal tract
+A0z..00,Intestinal tract infectious disease NOS
+Ayu0.00,[X]Intestinal infectious diseases
+Ayu0000,"[X]Cholera, unspecified"
+Ayu0100,"[X]Paratyphoid fever, unspecified"
+Ayu0200,[X]Other specified salmonella infections
+Ayu0300,"[X]Salmonella infection, unspecified"
+Ayu0400,[X]Other shigellosis
+Ayu0500,"[X]Shigellosis, unspecified"
+Ayu0600,[X]Other specified bacterial intestinal infections
+Ayu0700,"[X]Bacterial intestinal infection, unspecified"
+Ayu0800,[X]Other specified bacterial food-borne intoxications
+Ayu0900,"[X]Bacterial food-borne intoxication, unspecified"
+Ayu0B00,"[X]Amoebiasis, unspecified"
+Ayu0C00,[X]Other specified protozoal intestinal diseases
+Ayu0D00,"[X]Protozoal intestinal disease, unspecified"
+Ayu0E00,[X]Other viral enteritis
+Ayu0F00,"[X]Viral intestinal infection, unspecified"
+Ayu0G00,[X]Other specified intestinal infections
+Ayu0H00,[X]Diarrhoea+gastroenteritis of presumed infectious origin
+J43..11,Gastroenteritis
+A0...00,Intestinal infectious diseases
+A052.00,Amoebic nondysenteric colitis
+A080100,Infectious colitis
+A080400,Catarrhal dysentery
+A080500,Haemorrhagic dysentery
+A083.12,Infantile gastroenteritis

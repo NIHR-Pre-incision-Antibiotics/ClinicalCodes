@@ -1,0 +1,219 @@
+﻿Code,Description
+1656.00,Feverish cold
+7531100,Drainage of peritonsillar abscess
+16L..00,Influenza-like symptoms
+1C9..00,Sore throat symptom
+1C9..11,Throat soreness
+1C92.00,Has a sore throat
+1C93.00,Persistent sore throat
+1C9Z.00,Sore throat symptom NOS
+1CB..00,Throat symptom NOS
+1CB3.00,Throat pain
+1CB3.11,Pain in throat
+1CB5.00,Throat irritation
+1CBZ.00,Throat symptom NOS
+2DB6.00,O/E - follicular tonsillitis
+2DB7.00,O/E - exudate on tonsils
+2DC1.00,O/E - pharynx hyperaemic
+2DC2.00,O/E - granular pharyngitis
+2DC3.00,Inflamed throat
+4J3L.00,Influenza A virus H1N1 subtype detected
+4JF4000,Throat swab culture positive
+4JU0.00,Influenza H1 virus detected
+4JU1.00,Influenza H2 virus detected
+4JU2.00,Influenza H3 virus detected
+4JU3.00,Influenza H5 virus detected
+4JU4.00,"Influenza A virus, other or untyped strain detected"
+4JU5.00,Influenza B virus detected
+4JUE.00,Human rhinovirus detected
+4JUF.00,Human parainfluenza virus detected
+65VA.00,Notification of whooping cough
+A32..00,Diphtheria
+A320.00,Faucial diphtheria
+A321.00,Nasopharyngeal diphtheria
+A322.00,Anterior nasal diphtheria
+A323.00,Laryngeal diphtheria
+A32y.00,Other specified diphtheria
+A32y000,Conjunctival diphtheria
+A32yz00,Other specified diphtheria NOS
+A32z.00,Diphtheria NOS
+A33..00,Whooping cough
+A33..11,Bordetella
+A330.00,Bordetella pertussis
+A331.00,Bordetella parapertussis
+A33y.00,Whooping cough - other specified organism
+A33yz00,Other whooping cough NOS
+A33z.00,Whooping cough NOS
+A34..00,Streptococcal sore throat and scarlatina
+A340.00,Streptococcal sore throat
+A340000,Streptococcal angina
+A340200,Streptococcal pharyngitis
+A340300,Streptococcal tonsillitis
+A340z00,Streptococcal sore throat NOS
+A34z.00,Streptococcal sore throat with scarlatina NOS
+A383000,Fusobacterial necrotising tonsillitis
+A793.00,Rhinovirus
+Ayu3700,[X]Other diphtheria
+Ayu3800,"[X]Diphtheria, unspecified"
+Ayu3900,[X]Whooping cough due to other Bordetella species
+Ayu3A00,"[X]Whooping cough, unspecified"
+AA12.00,Vincent's pharyngitis
+AA1z.11,Vincent's laryngitis
+AA1z.12,Vincent's tonsillitis
+H00..00,Acute nasopharyngitis
+H00..11,Common cold
+H00..12,Coryza - acute
+H00..13,Febrile cold
+H00..14,Nasal catarrh - acute
+H00..15,Pyrexial cold
+H00..16,Rhinitis - acute
+H01..00,Acute sinusitis
+H01..11,Sinusitis
+H010.00,Acute maxillary sinusitis
+H010.11,Antritis - acute
+H011.00,Acute frontal sinusitis
+H012.00,Acute ethmoidal sinusitis
+H013.00,Acute sphenoidal sinusitis
+H014.00,Acute rhinosinusitis
+H01y.00,Other acute sinusitis
+H01y000,Acute pansinusitis
+H01yz00,Other acute sinusitis NOS
+H01z.00,Acute sinusitis NOS
+H02..00,Acute pharyngitis
+H02..11,Sore throat NOS
+H02..12,Viral sore throat NOS
+H02..13,Throat infection - pharyngitis
+H020.00,Acute gangrenous pharyngitis
+H021.00,Acute phlegmonous pharyngitis
+H022.00,Acute ulcerative pharyngitis
+H023.00,Acute bacterial pharyngitis
+H023000,Acute pneumococcal pharyngitis
+H023100,Acute staphylococcal pharyngitis
+H023z00,Acute bacterial pharyngitis NOS
+H024.00,Acute viral pharyngitis
+H02z.00,Acute pharyngitis NOS
+H03..00,Acute tonsillitis
+H03..11,Throat infection - tonsillitis
+H03..12,Tonsillitis
+H030.00,Acute erythematous tonsillitis
+H031.00,Acute follicular tonsillitis
+H032.00,Acute ulcerative tonsillitis
+H033.00,Acute catarrhal tonsillitis
+H034.00,Acute gangrenous tonsillitis
+H035.00,Acute bacterial tonsillitis
+H035000,Acute pneumococcal tonsillitis
+H035100,Acute staphylococcal tonsillitis
+H035z00,Acute bacterial tonsillitis NOS
+H036.00,Acute viral tonsillitis
+H037.00,Recurrent acute tonsillitis
+H03z.00,Acute tonsillitis NOS
+H04..00,Acute laryngitis and tracheitis
+H040.00,Acute laryngitis
+H040000,Acute oedematous laryngitis
+H040100,Acute ulcerative laryngitis
+H040200,Acute catarrhal laryngitis
+H040300,Acute phlegmonous laryngitis
+H040400,Acute haemophilus influenzae laryngitis
+H040500,Acute pneumococcal laryngitis
+H040600,Acute suppurative laryngitis
+H040w00,Acute viral laryngitis unspecified
+H040x00,Acute bacterial laryngitis unspecified
+H040z00,Acute laryngitis NOS
+H041.00,Acute tracheitis
+H041000,Acute tracheitis without obstruction
+H041100,Acute tracheitis with obstruction
+H041z00,Acute tracheitis NOS
+H042.00,Acute laryngotracheitis
+H042.11,Laryngotracheitis
+H042000,Acute laryngotracheitis without obstruction
+H042100,Acute laryngotracheitis with obstruction
+H042z00,Acute laryngotracheitis NOS
+H043.00,Acute epiglottitis (non strep)
+H043.11,Viral epiglottitis
+H043000,Acute epiglottitis without obstruction
+H043100,Acute epiglottitis with obstruction
+H043200,Acute obstructive laryngitis
+H043211,Croup
+H043z00,Acute epiglottitis NOS
+H044.00,Croup
+H04z.00,Acute laryngitis and tracheitis NOS
+H05..00,Other acute upper respiratory infections
+H050.00,Acute laryngopharyngitis
+H051.00,Acute upper respiratory tract infection
+H052.00,Pharyngotracheitis
+H053.00,Tracheopharyngitis
+H054.00,Recurrent upper respiratory tract infection
+H055.00,Pharyngolaryngitis
+H05y.00,Other upper respiratory infections of multiple sites
+H05z.00,Upper respiratory infection NOS
+H05z.11,Upper respiratory tract infection NOS
+H05z.12,Viral upper respiratory tract infection NOS
+H12..00,Chronic pharyngitis and nasopharyngitis
+H121.00,Chronic pharyngitis
+H121.11,Sore throat - chronic
+H121000,Simple chronic pharyngitis
+H121600,Chronic follicular pharyngitis
+H121z00,Chronic pharyngitis NOS
+H122.00,Chronic nasopharyngitis
+H12z.00,Chronic pharyngitis and nasopharyngitis NOS
+H13..00,Chronic sinusitis
+H13..11,Chronic rhinosinusitis
+H130.00,Chronic maxillary sinusitis
+H130.11,Antritis - chronic
+H130.12,Maxillary sinusitis
+H131.00,Chronic frontal sinusitis
+H131.11,Frontal sinusitis
+H132.00,Chronic ethmoidal sinusitis
+H133.00,Chronic sphenoidal sinusitis
+H134.00,Fistula of nasal sinus
+H135.00,Recurrent sinusitis
+H13y.00,Other chronic sinusitis
+H13y000,Chronic pansinusitis
+H13y100,Pansinusitis
+H13yz00,Other chronic sinusitis NOS
+H13z.00,Chronic sinusitis NOS
+H140.00,Chronic tonsillitis
+H140.11,Chronic adenoiditis
+H143.00,Chronic adenotonsillitis
+H14y400,Tonsil ulcer
+H14y500,Caseous tonsillitis
+H14y600,Lingular tonsillitis
+H15..00,Peritonsillar abscess - quinsy
+H15..11,Quinsy
+H16..00,Chronic laryngitis and laryngotracheitis
+H160.00,Chronic laryngitis
+H160000,Chronic simple laryngitis
+H160100,Chronic catarrhal laryngitis
+H160200,Chronic hypertrophic laryngitis
+H160300,Chronic atrophic laryngitis
+H160500,Congested larynx
+H160z00,Chronic laryngitis NOS
+H161.00,Chronic laryngotracheitis
+H16z.00,Chronic laryngitis NOS
+H1y1z14,Nasal infection
+H1y2200,Parapharyngeal abscess
+H1y2300,Retropharyngeal abscess
+H1y2600,Pharynx or nasopharynx abscess
+H27..00,Influenza
+H271000,Influenza with laryngitis
+H271100,Influenza with pharyngitis
+H27z.00,Influenza NOS
+H27z.11,Flu like illness
+H27z.12,Influenza like illness
+H29..00,Avian influenza
+H2A..00,Influenza due to Influenza A virus subtype H1N1
+H2A..11,Influenza A (H1N1) swine flu
+Hyu0.00,[X]Acute upper respiratory infections
+Hyu0000,[X]Other acute sinusitis
+Hyu0100,[X]Acute pharyngitis due to other specified organisms
+Hyu0200,[X]Acute tonsillitis due to other specified organisms
+Hyu0400,"[X]Flu+oth respiratory manifestations,'flu virus identified"
+Hyu0500,"[X]Influenza+other manifestations,influenza virus identified"
+Hyu0600,"[X]Influenza+oth respiratory manifestatns,virus not identifd"
+Hyu0700,"[X]Influenza+other manifestations, virus not identified"
+Hyu0300,[X]Other acute upper respiratory infections/multiple sites
+Hyu2200,[X]Other chronic sinusitis
+Hyu2800,[X]Other abscess of pharynx
+R041.00,[D]Throat pain
+R041.11,[D]Throat discomfort
+R153200,[D]Positive culture findings in throat

@@ -1,0 +1,60 @@
+medcode,description
+8631,Phototherapy
+8632,Ultraviolet light therapy
+8632.11,PUVA phototherapy
+8632.12,U-V light therapy
+8632.13,UVA phototherapy
+8632.14,UVB phototherapy
+8632.15,Ultraviolet light phototherapy
+8634,Ultraviolet lesion destruction
+8635,Other light coagulation
+8636,Ultraviolet A therapy
+8637,Ultraviolet B therapy
+8638,Photodynamic therapy
+7G0D.00,Photodynamic therapy of skin
+7G0D000,Photodynamic therapy of skin of whole body
+7G0Dy00,Other specified photodynamic therapy of skin
+7G0Dz00,Photodynamic therapy of skin NOS
+7G0E.00,Phototherapy to skin
+7G0E000,Ultraviolet A light therapy to skin
+7G0E100,Ultraviolet B light therapy to skin
+7G0E200,Combined photochemotherapy and UVA light therapy to skin
+7G0E300,Combined photochemotherapy and UVB light therapy to skin
+7G0Ey00,Other specified phototherapy to skin
+7G0Ez00,Phototherapy to skin NOS
+863..00,Phototherapy/radiation therapy
+863..11,Phototherapy
+863Z.00,Radiation/phototherapy NOS
+SN02.00,Phototherapy complication
+Z174400,Care of eyes during phototherapy
+Z6E..00,Light therapy
+Z6E..11,Actinotherapy
+Z6E1.00,Ultraviolet light therapy
+Z6E1.11,U-V light therapy
+Z6E1.12,Ultraviolet light phototherapy
+Z6E1.13,Ultraviolet radiation therapy
+Z6E1.14,UVL - ULTRAVIOLET LIGHT THERAPY
+Z6E1100,Ultraviolet A therapy
+Z6E1111,UVA phototherapy
+Z6E1112,UVA - Ultraviolet A
+Z6E1113,UVA - Ultraviolet A light therapy
+Z6E1114,Ultraviolet A light therapy
+Z6E1200,Ultraviolet B therapy
+Z6E1211,UVB phototherapy
+Z6E1212,UVB - Ultraviolet B
+Z6E1213,UVB - Ultraviolet B light therapy
+Z6E1214,Ultraviolet B light therapy
+Z6E1300,Ultraviolet C therapy
+Z6E1311,UVC - Ultraviolet C
+Z6E1312,UVC - Ultraviolet C light therapy
+Z6E1313,Ultraviolet C light therapy
+Z6E1400,PUVA therapy
+Z6E1411,PUVA phototherapy
+Z6E1412,PUVA - PSORALEN ULTRAVIOLET A LIGHT THERAPY
+Z6E1500,Theraktin treatment
+Z6E1600,Kromayer treatment
+Z6E1700,Mercury vapour lamp treatment
+Z6E2.00,Photochemotherapy
+Z6E3.00,Ingrams regime
+Z6E4.00,Goekemanns regime
+Z6E5.00,Intermittent phototherapy

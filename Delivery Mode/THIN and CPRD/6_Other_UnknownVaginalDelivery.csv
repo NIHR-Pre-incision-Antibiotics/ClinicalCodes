@@ -1,0 +1,86 @@
+readcode,Description
+7F19000,Manually assisted vaginal delivery
+Z254C00,Face delivery
+L222.11,Assisted breech delivery
+Lyu5300,[X]Other assisted breech delivery
+Lyu5500,[X]Other specified assisted single delivery
+Lyu5700,"[X]Assisted single delivery, unspecified"
+7F15100,Assisted breech delivery
+14Y4.00,Born by breech delivery
+Z254900,Vaginal delivery
+L296.00,Vaginal delivery following previous caesarean section
+L397.00,Breech extraction
+L397000,Breech extraction unspecified
+L397100,Breech extraction - delivered
+L397z00,Breech extraction NOS
+Lyu5400,[X]Other manipulation-assisted delivery
+7F14.00,Breech extraction delivery
+7F14000,Breech extraction delivery with version
+7F14y00,Other specified breech extraction delivery
+7F14z00,Breech extraction delivery NOS
+7F15.00,Other breech delivery
+7F15y00,Other specified other breech delivery
+7F15z00,Other breech delivery NOS
+Q030.00,Fetus or neonate affected by breech delivery and extraction
+Q030.11,Fetus affected by breech delivery
+Z254400,Deliveries by breech extraction
+L34..00,Trauma to perineum and vulva during delivery
+L34..12,Vulval delivery trauma
+L340.00,First degree perineal tear during delivery
+L340000,"First degree perineal tear during delivery, unspecified"
+L340100,First degree perineal tear during delivery - delivered
+L340200,First degree perineal tear during delivery with p/n problem
+L340300,Labial tear during delivery
+L340400,Fourchette tear during delivery
+L340500,Vulval tear during delivery
+L340600,Vaginal tear during delivery
+L340z00,First degree perineal tear during delivery NOS
+L341.00,Second degree perineal tear during delivery
+L341000,"Second degree perineal tear during delivery, unspecified"
+L341100,Second degree perineal tear during delivery - delivered
+L341200,Second degree perineal tear during delivery with p/n prob
+L341z00,Second degree perineal tear during delivery NOS
+L342.00,Third degree perineal tear during delivery
+L342000,"Third degree perineal tear during delivery, unspecified"
+L342100,Third degree perineal tear during delivery - delivered
+L342200,Third degree perineal tear during delivery with p/n problem
+L342z00,Third degree perineal tear during delivery NOS
+L343.00,Fourth degree perineal tear during delivery
+L343000,"Fourth degree perineal tear during delivery, unspecified"
+L343100,Fourth degree perineal tear during delivery - delivered
+L343200,Fourth degree perineal tear during delivery with p/n problem
+L343z00,Fourth degree perineal tear during delivery NOS
+L344.00,Unspecified perineal laceration during delivery
+L344000,"Unspecified perineal laceration during delivery, unspecified"
+L344100,Unspecified perineal laceration during delivery - delivered
+L344200,Unspecified perineal laceration during delivery + p/n prob
+L344z00,Unspecified perineal laceration during delivery NOS
+L345.00,Vulval and perineal haematoma during delivery
+L345000,"Vulval and perineal haematoma during delivery, unspecified"
+L345100,Vulval and perineal haematoma during delivery - delivered
+L345200,Vulval and perineal haematoma during delivery + p/n problem
+L345z00,Vulval and perineal haematoma during delivery NOS
+L34y.00,Other vulval and perineal trauma during delivery
+L34y000,"Other vulval/perineal trauma during delivery, unspecified"
+L34y100,Other vulval/perineal trauma during delivery- delivered
+L34y200,Other vulval/perineal trauma during delivery + p/n problem
+L34yz00,Other vulval/perineal trauma during delivery NOS
+L34z.00,Vulval/perineal trauma during delivery NOS
+L34z000,Vulval/perineal trauma during delivery NOS unspec
+L34z100,Vulval/perineal trauma during delivery NOS - delivered
+L34z200,Vulval/perineal trauma during delivery NOS with p/n problem
+L34zz00,Vulval/perineal trauma during delivery NOS
+L345.12,Vulval and perineal haematoma during delivery
+7F23.00,Immediate repair of obstetric laceration
+7F23.11,Immediate repair of obstetric tear
+7F23.12,Immediate suture of obstetric laceration
+7F23100,Immed repair obstetric laceration perineum & anal sphincter
+7F23200,Immed repair obstetric laceration vagina and floor of pelvis
+7F23300,Immediate repair of minor obstetric laceration
+7F23600,Rep obstet lacerat perineum and sphincter and mucosa of anus
+7F23611,Rep obstet lacer perineum and anal sphinct and mucosa rectum
+7F23y00,Other specified immediate repair of obstetric laceration
+7F23z00,Immediate repair of obstetric laceration NOS
+7F24000,Secondary repair of obstetric laceration
+Z256.00,Observation of third stage of labour
+Z254D00,Face to pubes birth

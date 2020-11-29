@@ -1,0 +1,33 @@
+medcode,description
+1BR..00,Reduced concentration
+1BR0.00,Reduced concentration span
+1BR0.11,Short attention span
+1P00.00,Hyperactive behaviour
+6A61.00,Attention deficit hyperactivity disorder annual review
+8BPT.00,Drug therapy ADHD (attention deficit hyperactivity disorder)
+8BPT000,Stimulant drug therapy for ADHD
+8BPT100,Non-stimulant drug therapy for ADHD
+9Ngp.00,On drug ther ADHD (attention deficit hyperactivity disorder)
+9Ngp000,On stim drug ther ADHD (attention def hyperactivity disordr)
+9Ngp100,On non-stimulant drug therapy for ADHD
+9Ol8.00,ADHD monitoring invitation first letter
+9Ol9.00,ADHD monitoring invitation second letter
+9OlA.00,ADHD monitoring invitation third letter
+E2E..00,Childhood hyperkinetic syndrome
+E2E..11,Overactive child syndrome
+E2E0.00,Child attention deficit disorder
+E2E0000,Attention deficit without hyperactivity
+E2E0100,Attention deficit with hyperactivity
+E2E0z00,Child attention deficit disorder NOS
+E2E1.00,Hyperkinesis with developmental delay
+E2E2.00,Hyperkinetic conduct disorder
+E2Ey.00,Other hyperkinetic manifestation
+E2Ez.00,Hyperkinetic syndrome NOS
+Eu90011,[X]Attention deficit hyperactivity disorder
+Eu9y700,[X]Attention deficit disorder
+Z7C5312,Short attention span
+ZS91.00,Attention deficit disorder
+ZS91.11,ADD - Attention deficit disorder
+ZS91.12,[X]Attention deficit disorder
+ZS93.00,Deficits in attention motor control and perception
+ZS93.11,DAMP - Deficits in attention motor control and perception

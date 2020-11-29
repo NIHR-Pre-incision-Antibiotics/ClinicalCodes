@@ -1,0 +1,33 @@
+Readcodes,Description
+L394500,Infection of obstetric surgical wound
+Lyu6A00,[X]Infection of caesarean section wound following delivery
+22L4.00,O/E - Wound infected
+22L6.00,O/E - wound necrotic
+4I2D000,Wound swab culture positive
+7G2F400,Incision and drainage of wound
+L443.00,Other complication of obstetric surgical wound
+L443000,Other complication of obstetric surgical wound unspecified
+L443100,Other complication obstetric surg wound -delivered +p/n comp
+L443200,Other complication obstetric surgical wound with p/n comp
+L443z00,Other complication of obstetric surgical wound NOS
+SP23200,Surgical wound necrosis
+SP25100,Postoperative wound abscess
+SP25500,"Postoperative wound infection, unspecified"
+SP25600,Postoperative wound infection-deep
+SP25700,Postoperative wound infection-superficial
+SP25800,MRSA infection of postoperative wound
+ZR1V.00,ASEPSIS score for wound infection
+R153300,[D]Positive culture findings in wound
+SP25000,Postoperative stitch abscess
+SP25200,Postoperative intra-abdominal abscess
+4I1F.00,"Wound microscopy, culture and sensitivities"
+4I2D.00,Wound exudate sample
+4I2D.11,Wound swab
+22Q3.00,Wound dirty
+22Q6.00,Wound discharge
+S893.00,Open wound of anterior abdominal wall with complication
+S893300,Open wound of pubic region with complication
+S893z00,Open wound of anterior abdominal wall with complication NOS
+S895z00,"Open wound of lateral abdominal wall with complication, NOS"
+S89w000,Open wound of pelvic region with complication
+SP25z00,Postoperative infection NOS

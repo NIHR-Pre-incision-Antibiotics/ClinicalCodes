@@ -1,0 +1,7 @@
+OPCS_ICD10codecode,description,
+R251,Caesarean hysterectomy,
+O822,Delivery by caesarean hysterectomy,
+O828,Other single delivery by caesarean section,
+O829,Delivery by caesarean section, unspecified
+O842,Multiple delivery, all by caesarean section
+O833,Delivery of viable fetus in abdominal pregnancy,

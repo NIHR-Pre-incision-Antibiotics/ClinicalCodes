@@ -1,0 +1,37 @@
+readcode,Description
+1545.11,H/O: normal delivery
+14Y3.00,Born by normal vaginal delivery
+L20..00,Normal delivery in a completely normal case
+L20..11,Spontaneous vaginal delivery
+L200.00,Normal delivery but ante- or post- natal conditions present
+L20z.00,Normal delivery in completely normal case NOS
+L213000,"Multiple delivery, all spontaneous"
+L222.13,Spontaneous breech delivery
+Ly0..00,Spontaneous vertex delivery
+Ly1..00,Spontaneous breech delivery
+Lyu5000,[X]Other single spontaneous delivery
+63E2.00,Normal birth
+63E3.00,Normal labour
+7F15000,Spontaneous breech delivery
+7F18.00,Cephalic vaginal deliv abnorm presentation head - no instrum
+7F18000,Manip cephalic vaginal deliv abnorm pres head without instrm
+7F18100,Nonmanip cephal vagin deliv abnorm pres head without instrum
+7F18y00,Cephalic vagin deliv abnorm pres head without instrument OS
+7F18z00,Cephalic vagin deliv abnorm pres head without instrument NOS
+7F19.00,Normal delivery
+7F19100,Water birth delivery
+7F19y00,Other specified normal delivery
+7F19z00,Normal delivery NOS
+Z248.00,Normal labour
+Z254800,Deliveries by spontaneous breech delivery
+Z257.00,Delivery normal
+Z257.11,Normal delivery
+Z257.12,Spontaneous vaginal delivery
+Z257.13,SVD - Spontaneous vaginal delivery
+Z257.14,FTND - Full term normal delivery
+Z257.15,ND - Normal delivery
+Z257100,Spontaneous vertex delivery
+Z253300,Normal rate of delivery
+Z255400,Rapid second stage of labour
+Z255600,Normal length of second stage of labour
+Z255900,Normal second stage of labour

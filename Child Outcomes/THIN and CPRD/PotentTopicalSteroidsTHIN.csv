@@ -1,0 +1,267 @@
+drugcode,bnfcode1,bnfcode2,bnfcode3,genericname,formulation,Grade
+42582978,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / fusidic acid 2% cream,,2
+52018979,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone 0.025% ointment,ointment,1
+52391979,13.04.00.00,13.04.00.00,12.01.01.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+53181979,13.04.00.00,12.01.01.00,13.04.00.00,Betamethasone valerate 0.1% / clioquinol 3% ointment,ointment,1
+53182979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / neomycin 0.5% cream,cream,1
+54510979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+54798979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+54799979,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+63210979,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone 0.025% in Aqueous cream,cream,1
+63947979,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream 75% in aqueous cream,,2
+63955979,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment 5% in white soft paraffin,,2
+63961979,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream 30% in aqueous cream,,2
+82534998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Neomycin 0.5% ointment,ointment,1
+82535998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Neomycin 0.5% cream,cream,1
+82536998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% ointment,ointment,1
+82537998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% cream,cream,1
+82541998,13.04.00.00,13.04.00.00,00.00.00.00,Fluocinonide 0.05% cream,cream,1
+82542998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinonide 0.05% ointment,ointment,1
+82690998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethas valerate 2.25mg plaster,plaster,1
+83546978,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,,2
+83828978,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment 25% in coal tar paste,,2
+84032998,13.04.00.00,13.10.01.02,13.04.00.00,Betamethasone valerate 0.1% / Fusidic acid 2% cream,cream,1
+85416978,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Clioquinol 3% cream,cream,1
+85417978,13.04.00.00,13.04.00.00,12.01.01.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+89821979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+89822979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+89827979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+90301979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+90779979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+90784979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+90910979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,lotion,1
+90911979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,lotion,1
+90913979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,lotion,1
+90914979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,lotion,1
+90919979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+90920979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+90922979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+90923979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+90926979,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+90929979,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+90932979,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+90934979,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+90937979,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+90938979,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% scalp lotion,scalp lotion,1
+90939979,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% scalp lotion,scalp lotion,1
+90943979,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% ointment,ointment,1
+90945979,13.04.00.00,00.00.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% cream,lipocream,1
+90946979,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% cream,cream,1
+90974979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+90975979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+90976979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+90977979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+90978979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+90980979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+91536998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+92222990,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+92286990,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+92480998,13.04.00.00,13.04.00.00,13.10.01.02,Triamcinolone acetonide & chlortetracycline 0.1%+3% ointment,ointment,1
+93162990,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+93311992,13.04.00.00,00.00.00.00,00.00.00.00,Chlortetracycline /cloretasone butyrate 3 % oin,,1
+93649992,01.07.02.00,00.00.00.00,00.00.00.00,Betamethasone valerate /lignocaine hyd./ .05 % oin,,2
+93650992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate pel,,1
+93682998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinonide 0.05% scalp lotion,scalp application,1
+93811998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+93829992,13.04.00.00,13.04.00.00,12.01.01.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+93892997,13.04.00.00,00.00.00.00,00.00.00.00,Clobetasone butyrate with oxytetracycline and nystatin ointment,,1
+94108997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment 50% in White soft paraffin,ointment,1
+94108998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream 50% in Aqueous cream,cream,1
+94138992,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone 0.1% ointment,ointment,1
+94357998,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% scalp lotion,scalp lotion,1
+94364992,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone valerate 0.1% cream,cream,1
+94403996,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.02% cream,,1
+94403997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.1%w/w ointment,ointment,1
+94403998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.1%w/w cream,cream,1
+94404997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% ointment,ointment,1
+94404998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% cream,cream,1
+94405998,13.04.00.00,13.04.00.00,00.00.00.00,Fluocinolone acetonide 0.025% gel,gel,1
+94426992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+94435990,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+94436990,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+94537998,13.04.00.00,13.04.00.00,13.10.02.00,Triamcinolone & econazole nitrate 0.1%+1% cream,cream,1
+94538998,13.04.00.00,13.04.00.00,13.10.02.00,Econazole with triamcinolone cream,cream,1
+94551992,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.01% cream,cream,1
+94696992,13.04.00.00,00.00.00.00,00.00.00.00,Beclomethasone dipropionate .02 ml lot,,1
+94697992,13.04.00.00,00.00.00.00,00.00.00.00,Beclomethasone diproprionate .5 % cre,,1
+94769998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+94770998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+94771998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+95130998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone with neomycin and undecylenic acid cream,cream,1
+95132996,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with neomycin nystatin and gramicidin otic ointment,,1
+95132997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with neomycin nystatin and gramicidin ointment,,1
+95132998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with neomycin nystatin and gramicidin cream,,1
+95134998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with nystatin cream,cream,1
+95135997,13.04.00.00,13.10.01.02,13.04.00.00,Triamcinolone acetonide 0.1% / chlortetracycline 3.09% ointment,ointment,1
+95135998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with chlortetracycline hc cream,cream,1
+95136998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with gramicidin and neomycin cream,cream,1
+95138997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide ointment,ointment,1
+95138998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide cream,cream,1
+95348992,13.04.00.00,00.00.00.00,00.00.00.00,Nystatin/triamcinolone acetonide oin,,1
+95635992,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.01% ointment,ointment,1
+95649992,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone valerate 0.1% ointment,ointment,1
+95960996,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate with neomycin lotion,,1
+95960997,13.04.00.00,13.04.00.00,13.10.01.01,Betamethasone valerate 0.1% / Neomycin 0.5% ointment,ointment,1
+95960998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Neomycin 0.5% cream,cream,1
+95961997,13.04.00.00,13.04.00.00,12.01.01.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+95961998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Clioquinol 3% cream,cream,1
+95964996,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 100micrograms/actuation inhaler,inhaler,1
+95964997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% lotion,lotion,1
+95965996,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+95965998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+95966998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Fusidic acid 2% cream,cream,1
+95984997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Clioquinol 3% cream,cream,1
+95984998,13.04.00.00,13.04.00.00,12.01.01.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+95985998,13.04.00.00,13.04.00.00,13.10.01.02,Beclometasone with chlortetracycline hcl ointment,ointment,1
+95986997,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone 0.025% ointment,ointment,1
+95986998,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone 0.025% in Aqueous cream,cream,1
+96173997,13.04.00.00,13.04.00.00,13.10.01.01,Chlorquinaldol 3% / hydrocortisone butyrate 0.1% ointment,ointment,1
+96173998,13.04.00.00,13.04.00.00,13.10.01.01,Chlorquinaldol 3% / hydrocortisone butyrate 0.1% cream,cream,1
+96174997,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% ointment,ointment,1
+96174998,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% cream,lipocream,1
+96247992,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide .02 % lot,,1
+96386998,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone 0.1% ointment,ointment,1
+96387997,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone 0.1% oily cream,oily cream,1
+96387998,13.04.00.00,13.04.00.00,00.00.00.00,Diflucortolone 0.1% cream,cream,1
+96419989,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+96419990,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+96465998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Fusidic acid 2% cream,cream,1
+96514997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinonide 0.05% ointment,ointment,1
+96514998,13.04.00.00,13.04.00.00,00.00.00.00,Fluocinonide 0.05% cream,cream,1
+96515997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Neomycin 0.5% ointment,ointment,1
+96515998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Neomycin 0.5% cream,cream,1
+96516997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% ointment,ointment,1
+96516998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% cream,cream,1
+96578989,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+96578990,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+96650997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% ointment,ointment,1
+96650998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% cream,cream,1
+96651997,13.04.00.00,13.04.00.00,12.01.01.00,Clioquinol 3% with betamethasone valerate 0.1% ointment,ointment,1
+96651998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Clioquinol 3% cream,cream,1
+97231998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.064% / Clotrimazole 1% cream,cream,1
+97383997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide & neomycin sulfate 0.025%+0.5% ointment,ointment,1
+97383998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide & neomycin sulfate 0.025%+0.5% cream,cream,1
+97384997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% ointment,ointment,1
+97384998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% / Clioquinol 3% cream,cream,1
+97385998,13.04.00.00,13.04.00.00,00.00.00.00,Fluocinolone acetonide 0.025% gel,gel,1
+97386996,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.00625% ointment,ointment,1
+97386997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.0025% cream,cream,1
+97386998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.00625% cream,cream,1
+97388997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% ointment,ointment,1
+97388998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinolone acetonide 0.025% cream,cream,1
+97661997,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+97661998,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+97699998,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,scalp lotion,1
+97713997,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% ointment,ointment,1
+97713998,13.04.00.00,00.00.00.00,00.00.00.00,Mometasone 0.1% cream,cream,1
+97804998,13.04.00.00,13.04.00.00,00.00.00.00,Mometasone 0.1% scalp lotion,lotion,1
+98303998,13.04.00.00,13.04.00.00,00.00.00.00,Fluocinonide 0.05% cream,cream,1
+98384998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate with neomycin lotion,lotion,1
+98385997,13.04.00.00,13.10.01.01,13.04.00.00,Betamethasone valerate 0.1% / Neomycin 0.5% ointment,ointment,1
+98385998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Neomycin 0.5% cream,cream,1
+98386997,13.04.00.00,12.01.01.00,13.04.00.00,Betamethasone valerate 0.1% / Clioquinol 3% ointment,ointment,1
+98386998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% / Clioquinol 3% cream,cream,1
+98388998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% lotion,lotion,1
+98389997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% ointment,ointment,1
+98389998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% cream,cream,1
+98390998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.1% scalp application,scalp application,1
+98391998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 500micrograms suppository,suppositories,1
+98538997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone & salicylic acid scalp 0.05%+2% scalp application,scalp application,1
+98538998,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+98770998,13.04.00.00,00.00.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% cream,lipocream,1
+98771997,13.04.00.00,13.10.01.01,13.04.00.00,Hydrocortisone butyrate & chlorquinaldol 0.1%+3% ointment,ointment,1
+98771998,13.04.00.00,13.04.00.00,13.10.01.01,Hydrocortisone butyrate & chlorquinaldol 0.1%+3% cream,cream,1
+98797997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide 0.1% ointment,ointment,1
+98797998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide 0.1% cream,cream,1
+99024997,13.04.00.00,00.00.00.00,00.00.00.00,Clobetasone butyrate with oxytetracycline and nystatin ointment,ointment,1
+99071996,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone valerate 0.1% ointment,ointment,1
+99071998,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone valerate 0.1% cream,cream,1
+99203998,13.04.00.00,00.00.00.00,00.00.00.00,Beclometasone with clioquinol ointment,ointment,1
+99204998,13.04.00.00,13.10.01.02,13.04.00.00,Beclometasone with chlortetracycline hcl ointment,ointment,1
+99205997,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone dipropionate 0.025% ointment,ointment,1
+99205998,13.04.00.00,13.04.00.00,00.00.00.00,Beclometasone dipropionate 0.025% cream,cream,1
+99331998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide & nystatin 0.1%+100000iu/g cream,cream,1
+99365996,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone 0.1% ointment,ointment,1
+99365997,13.04.00.00,00.00.00.00,00.00.00.00,Diflucortolone 0.1% oily cream,oily cream,1
+99365998,13.04.00.00,13.04.00.00,00.00.00.00,Diflucortolone 0.1% cream,cream,1
+99428997,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinonide 0.05% scalp application,scalp application,1
+99428998,13.04.00.00,00.00.00.00,00.00.00.00,Fluocinonide 0.05% ointment,ointment,1
+99463996,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% scalp lotion,scalp lotion,1
+99463997,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% ointment,ointment,1
+99463998,13.04.00.00,13.04.00.00,00.00.00.00,Hydrocortisone butyrate 0.1% cream,cream,1
+99488997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide 0.1% ointment,ointment,1
+99488998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide 0.1% cream,cream,1
+99924997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide & chlortetracycline 0.1%+3% cream,cream,1
+99924998,13.04.00.00,13.04.00.00,13.10.01.02,Triamcinolone acetonide & chlortetracycline 0.1%+3% ointment,ointment,1
+99986997,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with gramicidin and neomycin ointment,ointment,1
+99986998,13.04.00.00,00.00.00.00,00.00.00.00,Triamcinolone acetonide with gramicidin and neomycin cream,cream,1
+57855979,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.025% ointment 10% in white soft paraffin,,2
+32140978,00.00.00.00,00.00.00.00,00.00.00.00,Calcipotriol 50micrograms/g / betamethasone dipropionate 500micrograms/g foam,,2
+32141978,00.00.00.00,00.00.00.00,00.00.00.00,Calcipotriol 50micrograms/g / betamethasone dipropionate 500micrograms/g foam,,2
+83794978,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% ointment 25% / propylene glycol 10% in generic unguentum m cream,,2
+63977979,00.00.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% ointment 25% in emulsifying ointment,,2
+99573998,13.04.00.00,13.04.00.00,00.00.00.00,Halcinonide 0.1% cream,cream,1
+98841998,13.04.00.00,13.04.00.00,00.00.00.00,Betamethasone dipropionate 0.05% scalp lotion,lotion,1
+97561998,13.04.00.00,13.04.00.00,00.00.00.00,Fluclorolone acetonide 0.025% cream,cream,1
+96250998,13.04.00.00,13.04.00.00,00.00.00.00,Halcinonide 0.1% cream,cream,1
+93644992,13.04.00.00,13.04.00.00,00.00.00.00,Betamethasone dipropionate 0.05% scalp lotion,lotion,1
+93779998,13.04.00.00,13.04.00.00,00.00.00.00,Betamethasone dipropionate 0.05% scalp lotion,lotion,1
+99887998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 100mcg inhaler,inhaler,1
+99028997,13.04.00.00,00.00.00.00,00.00.00.00,Generic tri-adcortyl ointment,ointment,1
+99028998,13.04.00.00,00.00.00.00,00.00.00.00,Generic tri-adcortyl cream,cream,1
+98832998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone & fusidic acid 0.1%+2% cream,cream,1
+98854998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% ointment,ointment,1
+98855998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% cream,cream,1
+97291998,13.04.00.00,00.00.00.00,00.00.00.00,Methylprednisolone acetate & neomycin 0.5% cream,cream,1
+96965992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% ointment,ointment,1
+96578992,13.04.00.00,00.00.00.00,00.00.00.00,Adcortyl 4 mg tab,,1
+96475992,13.04.00.00,00.00.00.00,00.00.00.00,Synalar /vioform /cetomacrogol b 25 % cre,,1
+97562992,13.04.00.00,00.00.00.00,00.00.00.00,Halcinonide .02 % cre,,1
+82691998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 2.25mg medicated plasters,plaster,1
+87157998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% ointment in emollient cream 50:50,,1
+87609979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% foam,foam,1
+87610979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% foam,foam,1
+90385998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% foam,foam,1
+90386998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 0.1% foam,foam,1
+92702997,13.04.00.00,00.00.00.00,00.00.00.00,Fluticasone 0.005% ointment,ointment,1
+92702998,13.04.00.00,00.00.00.00,00.00.00.00,Fluticasone 0.05% cream,cream,1
+92711997,13.04.00.00,00.00.00.00,00.00.00.00,Fluticasone 0.005% ointment,ointment,1
+92711998,13.04.00.00,00.00.00.00,00.00.00.00,Fluticasone 0.05% cream,cream,1
+93134998,13.04.00.00,00.00.00.00,00.00.00.00,Methylprednisolone with neomycin cream,cream,1
+93646992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone .1 mg pel,,1
+93648992,13.04.00.00,00.00.00.00,00.00.00.00,Betnesol aer,,1
+93803992,13.04.00.00,00.00.00.00,00.00.00.00,Adcortyl spr,,1
+93830992,13.04.00.00,00.00.00.00,00.00.00.00,"Betnovate s.(betnovate,chlorhexidine,p.m oin",,1
+94131997,13.04.00.00,00.00.00.00,00.00.00.00,Fluclorolone acetonide 0.025%w/w ointment,ointment,1
+94410997,13.04.00.00,00.00.00.00,00.00.00.00,Budesonide 0.025% ointment,ointment,1
+94410998,13.04.00.00,00.00.00.00,00.00.00.00,Budesonide 0.025% cream,cream,1
+94418997,13.04.00.00,00.00.00.00,00.00.00.00,Budesonide 0.025% cream,ointment,1
+94418998,13.04.00.00,00.00.00.00,00.00.00.00,Budesonide 0.025% cream,cream,1
+94530992,13.04.00.00,00.00.00.00,00.00.00.00,Propaderm-c oin,cream,1
+94539992,13.04.00.00,00.00.00.00,00.00.00.00,Remiderm oin,,1
+94721992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone benzoate % cre,,1
+94725992,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone 1 % oin,,1
+94853997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% ointment,ointment,1
+94853998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% cream,cream,1
+95511992,13.04.00.00,00.00.00.00,00.00.00.00,Propaderm-c cre,cream,1
+95512992,13.04.00.00,00.00.00.00,00.00.00.00,Propaderm forte .5 % cre,,1
+95636992,13.04.00.00,00.00.00.00,00.00.00.00,Synalar-n lot,,1
+95637992,13.04.00.00,00.00.00.00,00.00.00.00,Synalar .02 % lot,,1
+95682992,13.04.00.00,00.00.00.00,00.00.00.00,Tri-adcortyl spr,,1
+95964998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone valerate 0.025% ointment,ointment,1
+95944992,13.04.00.00,00.00.00.00,00.00.00.00,"Lavender oil,synalar cream,cetomacrogol cre",,1
+90960979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 2% scalp application,scalp application,1
+90964979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 2% scalp application,scalp application,1
+90965979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 2% scalp application,scalp application,1
+90966979,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 2% scalp application,scalp application,1
+90968979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+90969979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+90970979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+90971979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+90972979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+90973979,13.04.00.00,13.04.00.00,13.05.02.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+92560998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate with fluocinonide, gentamicin with salicylic acid ointment,,1
+92561998,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate with fluocinonide, gentamicin with salicylic acid ointment,ointment,1
+94106997,13.04.00.00,00.00.00.00,00.00.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 2% scalp application,scalp application,1
+94106998,13.04.00.00,13.05.02.00,13.04.00.00,Betamethasone dipropionate 0.05% / Salicylic acid 3% ointment,ointment,1
+96588992,13.04.00.00,00.00.00.00,00.00.00.00,Betnovate / weak tar paste pas,,1

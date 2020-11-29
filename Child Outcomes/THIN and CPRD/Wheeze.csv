@@ -1,0 +1,21 @@
+medcode,description
+1737,Wheezing
+1737.11,Wheezing symptom
+1737000,Constant wheezing
+1737100,Wheezing in absence of colds
+173B.00,Nocturnal cough / wheeze
+173e.00,Viral wheeze
+173e.11,Viral induced wheeze
+2326,O/E - expiratory wheeze
+232H.00,On examination - inspiratory wheeze
+6635,Increasing exercise wheeze
+66Yz300,Number days absent from school due to wheeze in past 6 mnths
+H060.11,Acute wheezy bronchitis
+H30..12,Recurrent wheezy bronchitis
+H302.00,Wheezy bronchitis
+H312011,Chronic wheezy bronchitis
+R060900,[D]Wheezing
+R060E00,[D]Mild wheeze
+R060F00,[D]Moderate wheeze
+R060G00,[D]Severe wheeze
+R060H00,[D]Very severe wheeze

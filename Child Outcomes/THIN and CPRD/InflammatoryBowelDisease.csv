@@ -1,0 +1,31 @@
+medcode,description
+J4...12,Inflammatory bowel disease
+J40..00,Regional enteritis - Crohn's disease
+J40..11,Crohn's disease
+J400200,Crohn's disease of the terminal ileum
+J400300,Crohn's disease of the ileum unspecified
+J400400,Crohn's disease of the ileum NOS
+J400500,Exacerbation of Crohn's disease of small intestine
+J400z00,Crohn's disease of the small bowel NOS
+J401200,Exacerbation of Crohn's disease of large intestine
+J401z00,Crohn's disease of the large bowel NOS
+J401z11,Crohn's colitis
+J40z.11,Crohn's disease NOS
+J41..12,Ulcerative colitis and/or proctitis
+J410.00,Ulcerative proctocolitis
+J410000,Ulcerative ileocolitis
+J410100,Ulcerative colitis
+J410200,Ulcerative rectosigmoiditis
+J410300,Ulcerative proctitis
+J410400,Exacerbation of ulcerative colitis
+J410z00,Ulcerative proctocolitis NOS
+J411.00,Ulcerative (chronic) enterocolitis
+J412.00,Ulcerative (chronic) ileocolitis
+J413.00,Ulcerative pancolitis
+N031000,Arthropathy in ulcerative colitis
+N031100,Arthropathy in Crohn's disease
+N045300,Juvenile arthritis in Crohn's disease
+N045400,Juvenile arthritis in ulcerative colitis
+J41y.00,Other idiopathic proctocolitis
+Jyu4000,[X]Other Crohn's disease
+Jyu4100,[X]Other ulcerative colitis

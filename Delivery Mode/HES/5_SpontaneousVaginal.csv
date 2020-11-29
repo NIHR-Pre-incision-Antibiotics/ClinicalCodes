@@ -1,0 +1,14 @@
+OPCS_ICD10code,Description,
+R201,Spontaneous breech delivery,
+R230,Cephalic vaginal delivery with abnormal presentation of head at delivery without instrument,
+R231,Manipulative cephalic vaginal delivery with abnormal presentation of head at delivery without instrument,
+R232,Non-manipulative cephalic vaginal delivery with abnormal presentation of head at delivery without instrument,
+R238,Other specified cephalic vaginal delivery with abnormal presentation of head at delivery without instrument,
+R239,Unspecified cephalic vaginal delivery with abnormal presentation of head at delivery without instrument,
+R240,Normal delivery,
+R249,All normal delivery,
+O800,Spontaneous vertex delivery,
+O801,Spontaneous breech delivery,
+O808,Other single spontaneous delivery,
+O809,Single spontaneous delivery, unspecified
+O840,Multiple delivery, all spontaneous

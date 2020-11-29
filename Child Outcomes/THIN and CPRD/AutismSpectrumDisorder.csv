@@ -1,0 +1,31 @@
+medcode,description
+9NNl.00,Under care of autism assessment service
+E140.00,Infantile autism
+E140.11,Kanner's syndrome
+E140.12,Autism
+E140.13,Childhood autism
+E140000,Active infantile autism
+E140100,Residual infantile autism
+E140z00,Infantile autism NOS
+E141.00,Disintegrative psychosis
+E141.11,Heller's syndrome
+E141000,Active disintegrative psychoses
+E141100,Residual disintegrative psychoses
+E141z00,Disintegrative psychosis NOS
+Eu84.00,[X]Pervasive developmental disorders
+Eu84000,[X]Childhood autism
+Eu84011,[X]Autistic disorder
+Eu84012,[X]Infantile autism
+Eu84013,[X]Infantile psychosis
+Eu84014,[X]Kanner's syndrome
+Eu84100,[X]Atypical autism
+Eu84112,[X]Mental retardation with autistic features
+Eu84300,[X]Other childhood disintegrative disorder
+Eu84311,[X]Dementia infantalis
+Eu84312,[X]Disintegrative psychosis
+Eu84313,[X]Heller's syndrome
+Eu84314,[X]Symbiotic psychosis
+Eu84400,[X]Overactive disorder assoc mental retard/stereotype movts
+Eu84500,[X]Asperger's syndrome
+Eu84511,[X]Autistic psychopathy
+Eu84z11,[X]Autistic spectrum disorder

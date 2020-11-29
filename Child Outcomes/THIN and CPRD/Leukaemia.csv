@@ -1,0 +1,166 @@
+medcode,description
+B624.12,Hairy cell leukaemia
+B631.00,Plasma cell leukaemia
+B64..00,Lymphoid leukaemia
+B64..11,Lymphatic leukaemia
+B640.00,Acute lymphoid leukaemia
+B640000,B-cell acute lymphoblastic leukaemia
+B640011,Mature B-cell leukaemia Burkitt-type
+B641.00,Chronic lymphoid leukaemia
+B641.11,Chronic lymphatic leukaemia
+B641000,B-cell chronic lymphocytic leukaemia
+B641011,Chronic lymphocytic leukaemia of B-cell type
+B641100,Clinical stage A chronic lymphocytic leukaemia
+B641200,Clinical stage B chronic lymphocytic leukaemia
+B641300,Clinical stage C chronic lymphocytic leukaemia
+B642.00,Subacute lymphoid leukaemia
+B64y.00,Other lymphoid leukaemia
+B64y000,Aleukaemic lymphoid leukaemia
+B64y100,Prolymphocytic leukaemia
+B64y200,Adult T-cell leukaemia
+B64y300,B-cell prolymphocytic leukaemia
+B64y311,Prolymphocytic leukaemia of B-cell type
+B64y400,T-cell prolymphocytic leukaemia
+B64y411,Prolymphocytic leukaemia of T-cell type
+B64y500,Adult T-cell lymphoma/leukaemia (HTLV-1-associated)
+B64yz00,Other lymphoid leukaemia NOS
+B64z.00,Lymphoid leukaemia NOS
+B65..00,Myeloid leukaemia
+B650.00,Acute myeloid leukaemia
+B650000,Acute myeloid leukaemia with 11q23 abnormality
+B650100,Acute myeloid leukaemia with multilineage dysplasia
+B651.00,Chronic myeloid leukaemia
+B651.11,Chronic granulocytic leukaemia
+B651000,Chronic eosinophilic leukaemia
+B651100,"Chronic myeloid leukaemia, BCR/ABL positive"
+B651200,Chronic neutrophilic leukaemia
+B651300,"Atypical chronic myeloid leukaemia, BCR/ABL negative"
+B651z00,Chronic myeloid leukaemia NOS
+B652.00,Subacute myeloid leukaemia
+B654.00,Acute myeloblastic leukaemia
+B65y.00,Other myeloid leukaemia
+B65y000,Aleukaemic myeloid leukaemia
+B65y100,Acute promyelocytic leukaemia
+B65yz00,Other myeloid leukaemia NOS
+B65z.00,Myeloid leukaemia NOS
+B66..00,Monocytic leukaemia
+B66..11,Histiocytic leukaemia
+B66..12,Monoblastic leukaemia
+B660.00,Acute monocytic leukaemia
+B661.00,Chronic monocytic leukaemia
+B662.00,Subacute monocytic leukaemia
+B663.00,Acute monoblastic leukaemia
+B66y.00,Other monocytic leukaemia
+B66y000,Aleukaemic monocytic leukaemia
+B66yz00,Other monocytic leukaemia NOS
+B66z.00,Monocytic leukaemia NOS
+B67..00,Other specified leukaemia
+B670.00,Acute erythraemia and erythroleukaemia
+B672.00,Megakaryocytic leukaemia
+B672.11,Thrombocytic leukaemia
+B673.00,Mast cell leukaemia
+B676.00,Acute erythroid leukaemia
+B67y.00,Other and unspecified leukaemia
+B67y000,Lymphosarcoma cell leukaemia
+B67yz00,Other and unspecified leukaemia NOS
+B67z.00,Other specified leukaemia NOS
+B68..00,Leukaemia of unspecified cell type
+B680.00,Acute leukaemia NOS
+B681.00,Chronic leukaemia NOS
+B682.00,Subacute leukaemia NOS
+B68y.00,Other leukaemia of unspecified cell type
+B68z.00,Leukaemia NOS
+B69..00,Myelomonocytic leukaemia
+B690.00,Acute myelomonocytic leukaemia
+B691.00,Chronic myelomonocytic leukaemia
+B692.00,Subacute myelomonocytic leukaemia
+B693.00,Juvenile myelomonocytic leukaemia
+BBr..00,[M]Leukaemias
+BBr0.00,[M]Leukaemias unspecified
+BBr0000,[M]Leukaemia NOS
+BBr0100,[M]Acute leukaemia NOS
+BBr0111,[M]Blast cell leukaemia
+BBr0112,[M]Blastic leukaemia
+BBr0113,[M]Stem cell leukaemia
+BBr0200,[M]Subacute leukaemia NOS
+BBr0300,[M]Chronic leukaemia NOS
+BBr0400,[M]Aleukaemic leukaemia NOS
+BBr0z00,"[M]Leukaemia unspecified, NOS"
+BBr1.00,[M]Compound leukaemias
+BBr1000,[M]Compound leukaemia
+BBr1011,[M]Mixed leukaemia
+BBr1z00,[M]Compound leukaemia NOS
+BBr2.00,[M]Lymphoid leukaemias
+BBr2000,[M]Lymphoid leukaemia NOS
+BBr2011,[M]Lymphatic leukaemia
+BBr2100,[M]Acute lymphoid leukaemia
+BBr2200,[M]Subacute lymphoid leukaemia
+BBr2300,[M]Chronic lymphoid leukaemia
+BBr2400,[M]Aleukaemic lymphoid leukaemia
+BBr2500,[M]Prolymphocytic leukaemia
+BBr2600,[M]Burkitt's cell leukaemia
+BBr2700,[M]Adult T-cell leukaemia/lymphoma
+BBr2z00,[M]Other lymphoid leukaemia NOS
+BBr3.00,[M]Plasma cell leukaemias
+BBr3000,[M]Plasma cell leukaemia
+BBr3z00,[M]Plasma cell leukaemia NOS
+BBr4.00,[M]Erythroleukaemias
+BBr4000,[M]Erythroleukaemia
+BBr4z00,[M]Erythroleukaemia NOS
+BBr5.00,[M]Lymphosarcoma cell leukaemias
+BBr5000,[M]Lymphosarcoma cell leukaemia
+BBr5z00,[M]Lymphosarcoma cell leukaemia NOS
+BBr6.00,[M]Myeloid leukaemias
+BBr6000,[M]Myeloid leukaemia NOS
+BBr6011,[M]Granulocytic leukaemia NOS
+BBr6100,[M]Acute myeloid leukaemia
+BBr6200,[M]Subacute myeloid leukaemia
+BBr6300,[M]Chronic myeloid leukaemia
+BBr6311,[M]Naegeli-type monocytic leukaemia
+BBr6400,[M]Aleukaemic myeloid leukaemia
+BBr6500,[M]Neutrophilic leukaemia
+BBr6600,[M]Acute promyelocytic leukaemia
+BBr6700,[M]Acute myelomonocytic leukaemia
+BBr6800,[M]Chronic myelomonocytic leukaemia
+BBr6900,[M]Juvenile myelomonocytic leukaemia
+BBr6z00,[M]Other myeloid leukaemia NOS
+BBr7.00,[M]Basophilic leukaemias
+BBr7000,[M]Basophilic leukaemia
+BBr7z00,[M]Basophilic leukaemia NOS
+BBr8.00,[M]Eosinophilic leukaemias
+BBr8000,[M]Eosinophilic leukaemia
+BBr8z00,[M]Eosinophilic leukaemia NOS
+BBr9.00,[M]Monocytic leukaemias
+BBr9000,[M]Monocytic leukaemia NOS
+BBr9011,[M]Histiocytic leukaemia
+BBr9012,[M]Schilling-type monocytic leukaemia
+BBr9100,[M]Acute monocytic leukaemia
+BBr9200,[M]Subacute monocytic leukaemia
+BBr9300,[M]Chronic monocytic leukaemia
+BBr9400,[M]Aleukaemic monocytic leukaemia
+BBr9z00,[M]Other monocytic leukaemia NOS
+BBrA.00,[M]Miscellaneous leukaemias
+BBrA000,[M]Mast cell leukaemia
+BBrA100,[M]Megakaryocytic leukaemia
+BBrA111,[M]Thrombocytic leukaemia
+BBrA400,[M]Hairy cell leukaemia
+BBrA500,[M]Acute megakaryoblastic leukaemia
+BBrAz00,[M]Miscellaneous leukaemia NOS
+BBrz.00,[M]Leukaemia NOS
+ByuD500,[X]Other lymphoid leukaemia
+ByuD600,[X]Other myeloid leukaemia
+ByuD700,[X]Other monocytic leukaemia
+ByuD800,[X]Other specified leukaemias
+ByuD900,[X]Other leukaemia of unspecified cell type
+D21y100,Infantile pseudoleukaemia
+BBr4011,[M]Erythraemic myelosis
+BBr4100,[M]Acute erythraemia
+BBr4111,[M]Di Guglielmo's disease
+BBr4200,[M]Chronic erythraemia
+BBr6012,[M]Myelosis NOS
+BBrA200,[M]Megakaryocytic myelosis
+BBrA300,[M]Myeloid sarcoma
+BBrA311,[M]Chloroma
+BBrA312,[M]Granulocytic sarcoma
+BBrA600,[M]Acute panmyelosis
+BBrA700,[M]Acute myelofibrosis

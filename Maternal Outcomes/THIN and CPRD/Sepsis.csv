@@ -1,0 +1,106 @@
+Readcodes,Description
+L40..11,Sepsis - puerperal
+L403.00,Puerperal septicaemia
+L403000,Puerperal septicaemia unspecified
+L403100,Puerperal septicaemia - delivered with postnatal comp
+L403200,Puerperal septicaemia with postnatal complication
+L403z00,Puerperal septicaemia NOS
+L403.00,Puerperal septicaemia
+L403000,Puerperal septicaemia unspecified
+L403100,Puerperal septicaemia - delivered with postnatal comp
+L403200,Puerperal septicaemia with postnatal complication
+L403z00,Puerperal septicaemia NOS
+L40z.00,Major puerperal infection NOS
+L40z000,"Major puerperal infection NOS, unspecified"
+L40z100,Major puerperal infection NOS - delivered with p/n comp
+L40z200,Major puerperal infection NOS with postnatal complication
+L40zz00,Major puerperal infection NOS
+L42..00,Puerperal pyrexia of unknown origin
+L420.00,Puerperal pyrexia of unknown origin
+L420000,Puerperal pyrexia of unknown origin unspecified
+L420100,Puerperal pyrexia of unknown origin - delivered + p/n comp
+L420200,Puerperal pyrexia of unknown origin with p/n complication
+L420z00,Puerperal pyrexia NOS
+L42z.00,Puerperal pyrexia NOS
+Lyu6200,[X]Other specified puerperal infection
+Lyu6700,[X]Other specified puerperal complications
+R055500,[D]Septic shock
+SP20100,Postoperative septic shock
+SP38000,Septic shock due to transfusion
+1JN0.00,Suspected sepsis
+A023.00,Salmonella sepsis
+A224.00,Sepsis due to Bacillus anthracis
+A224.11,Anthrax sepsis
+A270600,Sepsis due to Listeria monocytogenes
+A270611,Listerial sepsis
+A271300,Sepsis due to Erysipelothrix
+A271311,Erysipelothrix sepsis
+A38z.11,Sepsis
+A396.00,Sepsis due to Actinomyces
+A396.11,Actinomycotic sepsis
+A3C..00,Sepsis
+A3C0.00,Sepsis due to Streptococcus
+A3C0.11,Streptococcal sepsis
+A3C0000,Sepsis due to Streptococcus group A
+A3C0100,Sepsis due to Streptococcus group B
+A3C0200,Sepsis due to Streptococcus group D
+A3C0300,Sepsis due to Streptococcus pneumoniae
+A3C0y00,Other streptococcal sepsis
+A3C0z00,"Streptococcal sepsis, unspecified"
+A3C1.00,Sepsis due to Staphylococcus
+A3C1000,Sepsis due to Staphylococcus aureus
+A3C1y00,Sepsis due to other specified staphylococcus
+A3C1z00,Sepsis due to staphylococcus NOS
+A3C2.00,Sepsis due to anaerobic bacteria
+A3C2.11,Sepsis due to anaerobes
+A3C3.00,Sepsis due to Gram negative bacteria
+A3C3.11,Sepsis due to Gram negative organisms
+A3C3000,Sepsis due to Haemophilus influenzae
+A3C3y00,Sepsis due to other Gram negative organisms
+A3Cy.00,Other specified sepsis
+A3Cz.00,Sepsis NOS
+AB2y500,Candidal sepsis
+AB2y511,Sepsis due to Candida
+J666.00,Biliary sepsis
+K190600,Urosepsis
+Q404y00,Other specified umbilical sepsis
+Q404z00,Umbilical sepsis NOS
+A021.00,Salmonella septicaemia
+A223.00,Anthrax septicaemia
+A270100,Listeria septicaemia
+A271100,Erysipelothrix septicaemia
+A362.00,Meningococcal septicaemia
+A366.00,Meningococcal meningitis with meningococcal septicaemia
+A38..00,Septicaemia
+A380.00,Streptococcal septicaemia
+A380000,"Septicaemia due to streptococcus, group A"
+A380100,"Septicaemia due to streptococcus, group B"
+A380200,"Septicaemia due to streptococcus, group D"
+A380300,Septicaemia due to streptococcus pneumoniae
+A380400,Septicaemia due to enterococcus
+A380500,Vancomycin resistant enterococcal septicaemia
+A381.00,Staphylococcal septicaemia
+A381000,Septicaemia due to Staphylococcus aureus
+A381100,Septicaemia due to coagulase-negative staphylococcus
+A382.00,Pneumococcal septicaemia
+A383.00,Septicaemia due to anaerobes
+A384.00,Septicaemia due to other gram negative organisms
+A384000,Gram negative septicaemia NOS
+A384100,Haemophilus influenzae septicaemia
+A384200,Escherichia coli septicaemia
+A384211,E.coli septicaemia
+A384300,Pseudomonas septicaemia
+A384400,Serratia septicaemia
+A384z00,Other gram negative septicaemia NOS
+A38y.00,Other specified septicaemias
+A38z.00,Septicaemia NOS
+A395.00,Actinomycotic septicaemia
+A545.00,Herpes simplex septicaemia
+A98yz12,Gonococcal septicaemia
+AB2y300,Candidal septicaemia
+Ayu3E00,[X]Other streptococcal septicaemia
+Ayu3F00,"[X]Streptococcal septicaemia, unspecified"
+Ayu3G00,[X]Septicaemia due to other gram-negative organisms
+Ayu3H00,[X]Other specified septicaemia
+Ayu3J00,"[X]Septicaemia, unspecified"
+SP25400,Postoperative septicaemia

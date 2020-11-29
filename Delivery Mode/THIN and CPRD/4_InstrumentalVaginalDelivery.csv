@@ -1,0 +1,50 @@
+readcode,Description
+Z254700,Deliveries by vacuum extractor
+14Y1.00,Born by forceps delivery
+14Y5.00,Born by ventouse delivery
+L213100,"Multiple delivery, all by forceps and vacuum extractor"
+L395.00,Forceps delivery
+L395.11,Keilland's forceps delivery
+L395.12,Neville - Barnes forceps delivery
+L395.13,Simpson's forceps delivery
+L395000,Forceps delivery unspecified
+L395100,Forceps delivery - delivered
+L395200,Low forceps delivery
+L395300,Mid-cavity forceps delivery
+L395400,Delivery by combination of forceps and vacuum extractor
+L395500,Mid-cavity forceps with rotation
+L395z00,Forceps delivery NOS
+L396.00,Vacuum extractor delivery
+L396.11,Ventouse delivery
+L396000,Vacuum extractor delivery unspecified
+L396100,Vacuum extractor delivery - delivered
+L396z00,Vacuum extractor delivery NOS
+Lyu5100,[X]Other and unspecified forceps delivery
+7F14100,Forceps to aftercoming head (breech)
+7F16.00,Forceps cephalic delivery
+7F16000,High forceps cephalic delivery with rotation
+7F16100,High forceps cephalic delivery NEC
+7F16200,Mid forceps cephalic delivery with rotation
+7F16300,Mid forceps cephalic delivery NEC
+7F16400,Low forceps cephalic delivery
+7F16700,Barton forceps cephalic delivery with rotation
+7F16800,Dehee forceps cephalic delivery with rotation
+7F16900,Kielland forceps cephalic delivery with rotation
+7F16A00,Scanzoni forceps cephalic delivery with rotation
+7F16B00,Piper forceps delivery
+7F16y00,Other specified forceps cephalic delivery
+7F16z00,Forceps cephalic delivery NOS
+7F17.00,Vacuum delivery
+7F17.11,Ventouse delivery
+7F17.12,Ventouse extraction
+7F17000,High vacuum delivery
+7F17100,Low vacuum delivery
+7F17200,Vacuum delivery before full dilation of cervix
+7F17y00,Other specified vacuum delivery
+7F17z00,Vacuum delivery NOS
+Q032.00,Fetus or neonate affected by forceps delivery
+Q033.00,Fetus or neonate affected by vacuum extraction delivery
+Q03y500,Fetus or neonate affected by instrumental delivery
+Z254100,Deliveries by forceps - delivered
+Z254200,Delivered by low forceps delivery
+Z254300,Delivered by mid-cavity forceps delivery
