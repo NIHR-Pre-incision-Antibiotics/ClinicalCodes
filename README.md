@@ -23,3 +23,6 @@ ___
 ## About this repository
 
 This repository contains numerous clinical codes for primary care and secondary care that represents various disease conditions and treatment. These codes were used to identity exposure, outcomes and baseline conditions in mothers and babies for the project.
+
+### Contact
+For further information about this project, please contact [Dr Dana Sumilo](mailto:D.Sumilo@bham.ac.uk).
