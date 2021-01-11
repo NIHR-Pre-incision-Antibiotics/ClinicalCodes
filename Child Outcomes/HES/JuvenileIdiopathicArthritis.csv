@@ -1,0 +1,14 @@
+﻿ICD-10 code,Description
+M08,Juvenile arthritis  
+M08.0 ,Juvenile rheumatoid arthritis  
+M08.1 ,Juvenile ankylosing spondylitis  
+M08.2 ,Juvenile arthritis with systemic onset  
+M08.3 ,Juvenile polyarthritis (seronegative)  
+M08.4 ,Pauciarticular juvenile arthritis  
+M08.8 ,Other juvenile arthritis  
+M08.9 ,"Juvenile arthritis, unspecified  "
+M09,Juvenile arthritis in diseases classified elsewhere  
+M09.0 ,Juvenile arthritis in psoriasis  
+M09.1 ,Juvenile arthritis in Crohn disease [regional enteritis]  
+M09.2 ,Juvenile arthritis in ulcerative colitis  
+M09.8 ,Juvenile arthritis in other diseases classified elsewhere 

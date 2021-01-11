@@ -1,0 +1,37 @@
+﻿ICD-10 code,Description
+P36 ,Bacterial sepsis of newborn  
+P36.0 ,"Sepsis of newborn due to streptococcus, group B  "
+P36.1 ,Sepsis of newborn due to other and unspecified streptococci  
+P36.2 ,Sepsis of newborn due to Staphylococcus aureus  
+P36.3 ,Sepsis of newborn due to other and unspecified staphylococci  
+P36.4 ,Sepsis of newborn due to Escherichia coli  
+P36.5 ,Sepsis of newborn due to anaerobes  
+P36.8 ,Other bacterial sepsis of newborn  
+P36.9 ,"Bacterial sepsis of newborn, unspecified  "
+A40 ,Streptococcal sepsis  
+A40.0 ,"Sepsis due to streptococcus, group A  "
+A40.1 ,"Sepsis due to streptococcus, group B  "
+A40.2 ,"Sepsis due to streptococcus, group D  "
+A40.3 ,Sepsis due to Streptococcus pneumoniae  
+A40.8 ,Other streptococcal sepsis  
+A40.9 ,"Streptococcal sepsis, unspecified  "
+A41 ,Other sepsis  
+A41.0 ,Sepsis due to Staphylococcus aureus  
+A41.1 ,Sepsis due to other specified staphylococcus  
+A41.2 ,Sepsis due to unspecified staphylococcus  
+A41.3   ,Sepsis due to Haemophilus influenzae
+A41.4 ,Sepsis due to anaerobes  
+A41.5  ,Sepsis due to other Gram-negative organisms 
+A41.8 ,Other specified sepsis  
+A41.9 ,"Sepsis, unspecified  "
+A39.2,Acute meningococcaemia
+A39.3,Chronic meningococcaemia
+A39.4,"Meningococcaemia, unspecified"
+A02.1,Salmonella sepsis
+A22.7,Anthrax sepsis
+A26.7,Erysipelothrix sepsis
+A32.7,Listerial sepsis
+A42.7,Actinomycotic sepsis
+B37.7,Candidal sepsis
+R57.2,Septic shock
+R65.1,Systemic Inflammatory Response Syndrome of infectious origin with organ failure

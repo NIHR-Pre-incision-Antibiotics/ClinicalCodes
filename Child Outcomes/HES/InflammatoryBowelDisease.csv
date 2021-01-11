@@ -1,0 +1,14 @@
+﻿ICD-10 code,Description
+K50 ,Crohn disease [regional enteritis]  
+K50.0 ,Crohn disease of small intestine  
+K50.1 ,Crohn disease of large intestine  
+K50.8 ,Other Crohn disease  
+K50.9 ,"Crohn disease, unspecified  "
+K51 ,Ulcerative colitis  
+K51.0 ,Ulcerative (chronic) pancolitis  
+K51.2 ,Ulcerative (chronic) proctitis  
+K51.3 ,Ulcerative (chronic) rectosigmoiditis  
+K51.4 ,Inflammatory polyps  
+K51.5 ,Left sided colitis  
+K51.8 ,Other ulcerative colitis  
+K51.9 ,"Ulcerative colitis, unspecified  "

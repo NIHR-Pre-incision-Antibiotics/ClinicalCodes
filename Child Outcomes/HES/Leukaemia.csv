@@ -1,0 +1,40 @@
+﻿ICD-10 code,Description
+C91,Lymphoid leukaemia
+C91.0,Acute lymphoblastic leukaemia [ALL]
+C91.1,Chronic lymphocytic leukaemia of B-cell type
+C91.3,Prolymphocytic leukaemia of B-cell type
+C91.4,Hairy-cell leukaemia
+C91.5,Adult T-cell lymphoma/leukaemia [HTLV-1-associated]
+C91.6,Prolymphocytic leukaemia of T-cell type
+C91.7,Other lymphoid leukaemia
+C91.8,Mature B-cell leukaemia Burkitt-type
+C91.9,"Lymphoid leukaemia, unspecified"
+C92,Myeloid leukaemia
+C92.0,Acute myeloblastic leukaemia [AML]
+C92.1,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+C92.2,"Atypical chronic myeloid leukaemia, BCR/ABL-negative"
+C92.3,Myeloid sarcoma
+C92.4,Acute promyelocytic leukaemia [PML]
+C92.5,Acute myelomonocytic leukaemia
+C92.6,Acute myeloid leukaemia with 11q23-abnormality
+C92.7,Other myeloid leukaemia
+C92.8,Acute myeloid leukaemia with multilineage dysplasia
+C92.9,"Myeloid leukaemia, unspecified"
+C93,Monocytic leukaemia
+C93.0,Acute monoblastic/monocytic leukaemia
+C93.1,Chronic myelomonocytic leukaemia
+C93.3,Juvenile myelomonocytic leukaemia
+C93.7 ,Other monocytic leukaemia  
+C93.9,"Monocytic leukaemia, unspecified"
+C94,Other leukaemias of specified cell type
+C94.0,Acute erythroid leukaemia
+C94.2,Acute megakaryoblastic leukaemia
+C94.3,Mast cell leukaemia
+C94.4,Acute panmyelosis with myelofibrosis
+C94.6,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+C94.7,Other specified leukaemias
+C95,Leukaemia of unspecified cell type
+C95.0,Acute leukaemia of unspecified cell type
+C95.1,Chronic leukaemia of unspecified cell type
+C95.7 ,Other leukaemia of unspecified cell type  
+C95.9 ,"Leukaemia, unspecified  "
